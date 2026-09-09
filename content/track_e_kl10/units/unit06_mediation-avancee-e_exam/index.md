@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la médiation FR (Unité 6, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la médiation FR (Unité 6, texte C). Répondez :
 3. Que reproche-t-il/elle au gouvernement ?
 4. Que demande la jeune génération ?
 
-### Tâche 2 — Verbes de médiation (8 P.)
+### Tâche 2 — Verbes de médiation (8 points)
 
 Reformulez chaque phrase allemande en français :
 
@@ -46,7 +46,7 @@ Reformulez chaque phrase allemande en français :
 3. *Er fordert …* → Il ___
 4. *Sie nuanciert …* → Elle ___
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
 
 Médiez ce texte allemand en français (~200 mots) :
 
@@ -86,5 +86,18 @@ déjà fait le choix du vélo et donne raison à cette
 évolution.* (~200 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 6*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la présentation Beauvoir (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la présentation Beauvoir (Unité 8, texte C). Répondez :
 4. Quel Goncourt et en quelle année ?
 5. Quel manifeste a-t-elle signé ?
 
-### Tâche 2 — 4 vagues féministes (8 P.)
+### Tâche 2 — 4 vagues féministes (8 points)
 
 Reliez chaque vague à sa cause-clé :
 
@@ -47,7 +47,7 @@ Reliez chaque vague à sa cause-clé :
 (Causes : droit de vote · IVG-MLF · intersectionnalité ·
 #MeToo.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez le **portrait** d'une autrice francophone (~280
 mots) : vie + œuvre clé + 1 citation analysée + 1 lien à
@@ -75,5 +75,18 @@ intersectionnalité · 4ᵉ = #MeToo.
 œuvre · 1 citation · 1 vague.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 8*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la présentation d'Anouk (Unité 1, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la présentation d'Anouk (Unité 1, texte C). Répondez :
 3. Qui est Tante Soraya ? Profession et lieu ?
 4. Quel livre va-t-elle lire ?
 
-### Tâche 2 — Conjugaison 3 temps (10 P.)
+### Tâche 2 — Conjugaison 3 temps (10 points)
 
 Conjuguez avec le bon temps.
 
@@ -50,7 +50,7 @@ Conjuguez avec le bon temps.
 7. *Nous (écrire, présent) ___ tous les mois.*
 8. *Vous (aller voir, futur proche) ___ Soraya ?*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **votre rentrée en 8e** en **100 mots** :
 1 souvenir d'été (PC) + 2 projets de l'année (futur proche) +
@@ -79,5 +79,18 @@ Soraya à Tunis, lire *Le Petit Prince*. 3) Sa tante, architecte
 demandés · 1 PC + 2 futurs proches.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 1*

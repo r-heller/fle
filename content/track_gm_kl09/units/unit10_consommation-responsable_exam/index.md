@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article (Unité 10, texte C : Vinted). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'article (Unité 10, texte C : Vinted). Répondez :
 4. Combien de fois acheter d'occasion divise l'empreinte CO₂ ?
 5. Quelle est la règle d'or pour un effet écologique réel ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Reliez chaque label à sa définition (5 P.) :
 
@@ -53,7 +53,7 @@ Reliez chaque label à sa définition (5 P.) :
 Plus, traduisez (3 P.) : *seconde main · empreinte (CO₂) ·
 atelier de confection*.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **critique d'une habitude de consommation**
 (~150 mots) en **3 paragraphes** :
@@ -85,5 +85,18 @@ zweite Hand · der CO₂-Fußabdruck · die Werkstatt
 paragraphes · 2 arguments · 3 actions concrètes.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 10*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la tribune de Léa (Unité 7, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la tribune de Léa (Unité 7, texte C). Répondez :
 3. Quel droit n'a-t-elle pas encore ?
 4. Quelle phrase de la conclusion résume sa position ?
 
-### Tâche 2 — Vocabulaire (10 P.)
+### Tâche 2 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -48,7 +48,7 @@ Traduisez :
 Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
 *Hugo Travers · Camille Étienne · Bilal Hassani*.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **tribune** de **200 mots** sur une cause qui vous
 tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
@@ -78,5 +78,18 @@ boycott · l'association · la tribune (d'opinion) · le militantisme
 complet · 5 connecteurs · style engagé.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 7*

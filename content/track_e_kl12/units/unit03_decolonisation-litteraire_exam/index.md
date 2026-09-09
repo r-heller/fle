@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait *Moi, Tituba* (Unité 3, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'extrait *Moi, Tituba* (Unité 3, texte C). Répondez :
 4. D'où vient sa grand-mère ?
 5. Que dit Condé du mot *« sorcière »* ?
 
-### Tâche 2 — Concepts décoloniaux (8 P.)
+### Tâche 2 — Concepts décoloniaux (8 points)
 
 Reliez chaque concept à sa définition / référence :
 
@@ -49,7 +49,7 @@ Reliez chaque concept à sa définition / référence :
 · Tituba/Slimani · réinverser un canon · Senghor/Césaire ·
 après l'empire · diffusion · Bhabha.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **analyse + lien** (~350 mots) à partir d'un
 2ᵉ extrait fourni (Glissant / Mabanckou) : 1 concept + 3
@@ -76,5 +76,18 @@ Barbade. 5) Le mot qui efface et qui tue.
 concept · 3 citations · 1 lien.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 3*

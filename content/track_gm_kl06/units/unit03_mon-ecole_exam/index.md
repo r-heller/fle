@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'emploi du temps de Léa (Unité 3, texte B).
 
@@ -40,14 +40,14 @@ Lisez l'emploi du temps de Léa (Unité 3, texte B).
 | 4 | Le vendredi à 8h, Léa a anglais. | ☐ | ☐ |
 | 5 | Question ouverte : citez les 4 matières du mardi. | | |
 
-### Tâche 2 — Vocabulaire (10 P.)
+### Tâche 2 — Vocabulaire (10 points)
 
 Traduisez :
 
 - les maths · Französisch · l'allemand · Englisch · le sport ·
  Musik · les arts · Naturwissenschaften.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez votre lundi à l'école en **50 mots** : au moins 4
 matières avec heures + une matière préférée.
@@ -72,5 +72,18 @@ sport/maths/musique/français.
 la musique / Kunst / les sciences.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 3*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
 4. Quels sont les 3 priorités 13e ?
 5. Quel projet post-épreuve finale ?
 
-### Tâche 2 — Références (8 P.)
+### Tâche 2 — Références (8 points)
 
 Reliez chaque autrice/auteur à son œuvre + année :
 
@@ -50,7 +50,7 @@ Reliez chaque autrice/auteur à son œuvre + année :
 · *Chants d'ombre* (1945) · *Chanson douce* (2016) · *Les
 Années* (2008) · *Le racisme expliqué …* (1998).)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre portfolio épreuve finale (option d'approfondissement)** (~350 mots) :
 4 acquis + 3 priorités 13e + 4 références + 1 objectif
@@ -78,5 +78,18 @@ Erasmus à Bordeaux chez Mollat, rentrée 2030.
 acquis · 3 priorités · 4 références · 1 objectif chiffré.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 12*

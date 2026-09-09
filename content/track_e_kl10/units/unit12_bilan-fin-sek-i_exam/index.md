@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le CV d'Anouk (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le CV d'Anouk (Unité 12, texte C). Répondez :
 4. Quels auteurs sont cités dans les centres d'intérêt ?
 5. Quel podcast écoute-t-elle ?
 
-### Tâche 2 — CECRL (8 P.)
+### Tâche 2 — CECRL (8 points)
 
 Reliez chaque niveau à sa description :
 
@@ -47,7 +47,7 @@ Reliez chaque niveau à sa description :
 (Descriptions : élémentaire débutant · élémentaire ·
 intermédiaire seuil · avancé · expérimenté · maîtrise.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre CV scolaire** en français (~200 mots) :
 5 sections + 5 dates précises + auto-évaluation CECRL.
@@ -74,5 +74,18 @@ Sempé-Goscinny, Colombani, Senghor. 5) *Les Odyssées*.
 sections · 5 dates · CECRL.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 12*

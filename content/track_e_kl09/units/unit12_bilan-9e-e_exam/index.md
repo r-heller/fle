@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre d'Anouk (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la lettre d'Anouk (Unité 12, texte C). Répondez :
 4. Quel choix vise-t-elle pour la cycle terminal (« Kursstufe ») ?
 5. Quel projet a-t-elle à long terme ?
 
-### Tâche 2 — 3 temps en alternance (8 P.)
+### Tâche 2 — 3 temps en alternance (8 points)
 
 Conjuguez :
 
@@ -47,7 +47,7 @@ Conjuguez :
 3. *À l'avenir, je ___ (viser, futur simple) le Lf.*
 4. *Je ___ (préparer, futur simple) un Erasmus à Lille.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre lettre** à votre moi de 13e (~180 mots) :
 4 axes (langue, contenus, méthodes, projets) + 6 connecteurs
@@ -77,5 +77,18 @@ Bordeaux (Mollat).
 · 6 connecteurs · 3 temps · 1 phrase de motivation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 12*

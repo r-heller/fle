@@ -28,19 +28,19 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez en français :
 
 1. der Bruder · 2. die Tante · 3. die Eltern · 4. der Sohn ·
 5. die Großmutter.
 
-### Tâche 2 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 2 — Expression écrite (« Schreiben ») (10 points)
 
 Présentez votre famille en **environ 40 mots**, avec au moins
 **3 possessifs** *mon · ma · mes*.
 
-### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 points)
 
 Présentation orale de votre famille (1 minute) avec photo ou
 arbre généalogique. Critères : Erfüllung 4 P. · Aussprache 3 P.
@@ -66,5 +66,18 @@ s'appelle Anne, elle a 42 ans. Mon père s'appelle Stefan, il a
 habitent à Berlin.*
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 2*

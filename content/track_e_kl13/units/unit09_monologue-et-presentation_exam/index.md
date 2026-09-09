@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le dossier *Annie Ernaux* (Unité 9, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le dossier *Annie Ernaux* (Unité 9, texte C). Répondez :
 4. Quel manifeste a-t-elle signé en 1971 ?
 5. Qui sont ses héritières en littérature ?
 
-### Tâche 2 — Modes de présentation (8 P.)
+### Tâche 2 — Modes de présentation (8 points)
 
 Reliez chaque mode à sa caractéristique :
 
@@ -49,7 +49,7 @@ Reliez chaque mode à sa caractéristique :
 auteur·e·s · question/réponse · vie éclaire l'œuvre · clé
 spécifique · synthèse globale · regard critique.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») dossier (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») dossier (12 points)
 
 Rédigez **votre dossier** (~600 mots) sur un·e auteur·e :
 plan I-II-III + thèse personnelle + 6 références + 5
@@ -79,5 +79,18 @@ Leïla Slimani.
 plan I-II-III · thèse · 6 réf. · 5 citations · 1 ouverture.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 9*

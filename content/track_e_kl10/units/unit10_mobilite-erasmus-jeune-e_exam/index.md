@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 Écoutez le témoignage de Léa (Unité 10, texte C). Répondez :
 
@@ -38,7 +38,7 @@ curriculum:
 4. Que lui a appris sa famille d'accueil ?
 5. Quelle phrase de motivation finale ?
 
-### Tâche 2 — Vocabulaire mobilité (8 P.)
+### Tâche 2 — Vocabulaire mobilité (8 points)
 
 Reliez chaque mot à sa définition :
 
@@ -49,7 +49,7 @@ Reliez chaque mot à sa définition :
 · famille hôte · logement · ami épistolaire · CEAM · période
 à l'étranger.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **mail-candidature** Erasmus+ (~180 mots) :
 objet + politesse + motivation (3 raisons) + engagement (3
@@ -76,5 +76,18 @@ c'est de ne pas essayer.*
 raisons · 3 verbes · 1 conditionnel · politesse complète.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 10*

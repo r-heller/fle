@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la page mémoire sur Verdun (Unité 7, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la page mémoire sur Verdun (Unité 7, texte C). Répondez :
 4. Qui s'est serré la main en 1984 ?
 5. Que symbolise ce geste ?
 
-### Tâche 2 — Passé simple → PC (8 P.)
+### Tâche 2 — Passé simple → PC (8 points)
 
 Transformez ces formes du passé simple en passé composé :
 
@@ -47,7 +47,7 @@ Transformez ces formes du passé simple en passé composé :
 3. *Elle fut décorée.* → ___
 4. *Ils se serrèrent la main.* → ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **page mémoire** (~120 mots) sur **Ypres
 (Belgique, 1917)** à partir de ces 4 faits fournis :
@@ -82,5 +82,18 @@ franco-allemande.
 de la mémoire · phrase de paix.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 7*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre ouverte (Unité 7, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la lettre ouverte (Unité 7, texte C). Répondez :
 4. Que peut faire un·e témoin (3 actions) ?
 5. Quel est le mot de conclusion ?
 
-### Tâche 2 — Subjonctif après *il faut que* (8 P.)
+### Tâche 2 — Subjonctif après *il faut que* (8 points)
 
 Conjuguez :
 
@@ -47,7 +47,7 @@ Conjuguez :
 3. *Il faut que vous ___ (être) courageux·ses.*
 4. *Il faut que je ___ (avoir) le numéro 3018.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre lettre ouverte** (~150 mots) contre le
 harcèlement : 3 § (victime / témoin / ensemble) + 5 verbes
@@ -75,5 +75,18 @@ un droit — pour chacun·e.*
 5 verbes d'action · 1 subjonctif · 3018.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 7*

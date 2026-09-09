@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la médiation FR (Unité 5, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la médiation FR (Unité 5, texte C). Répondez :
 3. Quelle économiste est citée ?
 4. Quels deux camps s'opposent ?
 
-### Tâche 2 — Verbes-charnières (8 P.)
+### Tâche 2 — Verbes-charnières (8 points)
 
 Reformulez en français :
 
@@ -46,7 +46,7 @@ Reformulez en français :
 3. *Die FDP lehnt ab …* → ___
 4. *Grimm fordert …* → ___
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
 
 Médiez ce dossier allemand en français (~350 mots) :
 
@@ -95,5 +95,18 @@ km/h est en vigueur depuis 1973 — différence culturelle
 notable.* (~350 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 5*

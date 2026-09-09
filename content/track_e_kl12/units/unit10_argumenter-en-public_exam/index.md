@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le plan de monologue Senghor (Unité 10, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Combien de langues nationales protège-t-il ?
 5. Quelle est la chute citée ?
 
-### Tâche 2 — Stratégies de rebond (8 P.)
+### Tâche 2 — Stratégies de rebond (8 points)
 
 Reliez chaque stratégie à son exemple :
 
@@ -51,7 +51,7 @@ préciser ? »* · *« Certes, mais … »* · *« Prenons par
 exemple … »* · *« Comme l'écrit Camus … »* · *« Cela ouvre
 la question de … »*.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Préparez **votre plan de monologue 5 min** sur un sujet :
 auteur·rice ou thème. Structure I-II-III + 4 citations + 1
@@ -78,5 +78,18 @@ sont des rendez-vous du donner et du recevoir. »*
 citations · 1 chute · 6 stratégies de rebond.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 10*

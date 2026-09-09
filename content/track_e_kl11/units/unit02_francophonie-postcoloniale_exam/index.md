@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait Ben Jelloun (Unité 2, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'extrait Ben Jelloun (Unité 2, texte C). Répondez :
 4. Pourquoi écrit-il en français ?
 5. Qui est l'interlocutrice du dialogue ?
 
-### Tâche 2 — Concepts postcoloniaux (8 P.)
+### Tâche 2 — Concepts postcoloniaux (8 points)
 
 Reliez :
 
@@ -48,7 +48,7 @@ Reliez :
 (Définitions : domination · indépendance · diffusion ·
 Glissant/Chamoiseau · Bhabha · après l'empire.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **mini-dissertation** (~300 mots) : *« La langue
 française est-elle un héritage ou une appropriation pour les
@@ -77,5 +77,18 @@ français l'a adopté, lui permet de parler aux Français.
 2 auteurs · 3 concepts.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 2*

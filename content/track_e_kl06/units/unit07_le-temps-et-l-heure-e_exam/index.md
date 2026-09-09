@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la météo de la semaine (Unité 7, texte D). Répondez :
 
@@ -38,14 +38,14 @@ Lisez la météo de la semaine (Unité 7, texte D). Répondez :
 4. Quel jour est parfait pour le ski ? Pourquoi ?
 5. Quels jours fait-il moins de 0 °C ?
 
-### Tâche 2 — Date / mois (8 P.)
+### Tâche 2 — Date / mois (8 points)
 
 Écrivez en lettres :
 
 1. 1/1 · 2. 14/7 · 3. 25/12 · 4. 8/3 · 5. 31/10 · 6. 5/5 ·
 7. 6/6 · 8. 11/11.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre météo de la semaine** en **70 mots** : 7 jours
 + température + soleil/pluie/vent + 1 vêtement adapté.
@@ -73,5 +73,18 @@ novembre.
 température · vêtement.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 7*

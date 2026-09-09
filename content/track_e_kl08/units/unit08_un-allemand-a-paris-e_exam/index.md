@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le journal de Jonas (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le journal de Jonas (Unité 8, texte C). Répondez :
 4. Que mange-t-il le dernier soir ?
 5. Quel sentiment ressent-il à la fin ?
 
-### Tâche 2 — Futur simple (8 P.)
+### Tâche 2 — Futur simple (8 points)
 
 Conjuguez au futur simple :
 
@@ -47,7 +47,7 @@ Conjuguez au futur simple :
 3. Tu ___ (voir) la Joconde.
 4. Vous ___ (être) à Paris dans 3 jours.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **3 entrées** de votre journal pour un futur voyage
 à Paris (~120 mots) : 1 par jour (J-1, J, J+1) · 5 verbes au
@@ -74,5 +74,18 @@ manquera.
 · 5 futurs · 5 mots voyage.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 8*

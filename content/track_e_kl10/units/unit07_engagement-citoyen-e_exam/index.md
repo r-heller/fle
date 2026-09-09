@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la tribune d'Anouk (Unité 7, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la tribune d'Anouk (Unité 7, texte C). Répondez :
 4. Quelle citation utilise-t-elle ?
 5. Que dit-elle sur son père ?
 
-### Tâche 2 — Verbes d'engagement (8 P.)
+### Tâche 2 — Verbes d'engagement (8 points)
 
 Conjuguez :
 
@@ -47,7 +47,7 @@ Conjuguez :
 3. Tu ___ (signer) des pétitions.
 4. Vous ___ (sensibiliser) votre famille.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre tribune** (~180 mots) sur un sujet
 d'engagement : 4 § + 6 connecteurs + 5 verbes d'engagement
@@ -77,5 +77,18 @@ oui.
 6 connecteurs · 5 verbes engagement · 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 7*

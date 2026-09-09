@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Hörverstehen (12 P.)
+### Tâche 1 — Hörverstehen (12 points)
 
 La prof lit deux fois le mini-bulletin (Unité 8, texte B).
 Répondez :
@@ -40,7 +40,7 @@ Répondez :
 5. À Strasbourg, à quel moment de la journée pleuvra-t-il ?
 6. Citez **deux** expressions météo entendues.
 
-### Tâche 2 — Saisons (8 P.)
+### Tâche 2 — Saisons (8 points)
 
 Reliez chaque description à une saison.
 
@@ -51,7 +51,7 @@ Reliez chaque description à une saison.
 
 a) printemps · b) été · c) automne · d) hiver.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez la météo dans **3 villes** (~30 mots) avec température
 et phénomène (soleil/pluie/vent/nuages).
@@ -67,5 +67,18 @@ L'après-midi. 6) *Il fera beau · il pleuvra · il y aura du soleil
 **Tâche 2.** 1–b · 2–c · 3–d · 4–a.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 8*

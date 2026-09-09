@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la lettre d'Anouk (Unité 5, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la lettre d'Anouk (Unité 5, texte C). Répondez :
 3. Comment veut-elle se réconcilier ?
 4. Que demande-t-elle à la fin ?
 
-### Tâche 2 — Pronoms COD (10 P.)
+### Tâche 2 — Pronoms COD (10 points)
 
 Remplacez le complément par un pronom COD.
 
@@ -50,7 +50,7 @@ Remplacez le complément par un pronom COD.
 7. Il connaît Inès et Léa. → Il ___ connaît.
 8. Léa a oublié son sac. → Elle ___ a oublié.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **lettre de réconciliation** en **120 mots** :
 nom du conflit + 2 sentiments + 1 action concrète + 2 pronoms
@@ -78,5 +78,18 @@ COD.
 · 1 action · 2 pronoms COD · format lettre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 5*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la lettre de Léa (Unité 2, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la lettre de Léa (Unité 2, texte C). Répondez :
 3. Sur quelle rubrique écrit-elle ?
 4. Quelle est la formule finale ?
 
-### Tâche 2 — Formules (10 P.)
+### Tâche 2 — Formules (10 points)
 
 Complétez avec les formules adéquates.
 
@@ -49,7 +49,7 @@ Complétez avec les formules adéquates.
 4. Formule finale : *« Je vous prie d'_______________, Madame,
  Monsieur, mes salutations _______________. »*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre lettre de motivation** en **150 mots** pour un
 stage d'une semaine. Respectez la **structure** (coordonnées,
@@ -79,5 +79,18 @@ salutations distinguées. »
 150 mots · 3 formules · pas de familier.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 2*

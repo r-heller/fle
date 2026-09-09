@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 Écoutez l'édito radio (Unité 7, texte C). Répondez :
 
@@ -38,7 +38,7 @@ curriculum:
 4. Quelle citation de Glissant ?
 5. Où ira Anouk en Erasmus ?
 
-### Tâche 2 — Codes radio (8 P.)
+### Tâche 2 — Codes radio (8 points)
 
 Identifiez :
 
@@ -47,7 +47,7 @@ Identifiez :
 3. La **citation littéraire** : ___
 4. La **chute / signature** : ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre édito radio** (~450 mots, 3 min) sur un
 sujet : climat / IA / mémoire / mobilité. Identification +
@@ -77,5 +77,18 @@ journée à toustes — et à mardi prochain. »*
 identification · chute · 1 citation · 5 phrases courtes.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 7*

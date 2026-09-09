@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
 
 Lisez le règlement du tournoi inter-collèges Strasbourg
 (Article 1-6 — Unité 7, texte A). Répondez en phrases complètes.
@@ -48,7 +48,7 @@ organisateur·rice.
 
 Critères : Erfüllung 4 P. · Langue 4 P. · Aussprache 4 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (6 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (6 points)
 
 Écrivez **4 phrases** sur votre équipe idéale :
 nombre de joueur·euse·s · sport · ambiance · capitaine.
@@ -69,5 +69,18 @@ nombre de joueur·euse·s · sport · ambiance · capitaine.
 matchs. 5) Exclusion définitive. 6) Avant le 1er mars.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 18 points)" collapse="true" >}}
+**Total.** 18 points
+
+| Points | Note |
+|---|---|
+| 17–18 | 1 |
+| 15–16 | 2 |
+| 13–14 | 3 |
+| 9–12 | 4 |
+| 6–8 | 5 |
+| 0–5 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 7*

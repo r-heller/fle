@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
 4. Où vit la cousine de Karim ?
 5. Sur combien de continents se trouve la francophonie ?
 
-### Tâche 2 — Prépositions de pays (8 P.)
+### Tâche 2 — Prépositions de pays (8 points)
 
 Complétez avec *en, au, aux, à* :
 
@@ -47,7 +47,7 @@ Complétez avec *en, au, aux, à* :
 3. Inès étudie ___ Montréal, ___ Canada.
 4. Tante Soraya travaille ___ Tunis, ___ Tunisie.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **portrait d'un pays francophone** de votre choix
 en **120 mots** : continent + capitale + 2 faits culturels
@@ -74,5 +74,18 @@ Sénégal. 5) 5 continents.
 prépositions correctes · 2 faits culturels.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 4*

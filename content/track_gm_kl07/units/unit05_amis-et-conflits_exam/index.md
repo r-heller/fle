@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Grammatik : pronoms COD (10 P.)
+### Tâche 1 — Grammatik : pronoms COD (10 points)
 
 Remplacez le complément par un pronom COD.
 
@@ -41,7 +41,7 @@ Remplacez le complément par un pronom COD.
 7. Il connaît Inès et Léa. → Il ___ connaît.
 8. Léa a oublié son sac. → Elle ___ a oublié.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le texte C de l'Unité 5 (la dispute). Répondez :
 
@@ -50,7 +50,7 @@ Lisez le texte C de l'Unité 5 (la dispute). Répondez :
 3. Que propose Théo pour faire la paix ?
 4. Comment Léa accepte-t-elle ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Racontez une **dispute** avec un(e) ami(e) en **80 mots**.
 Utilisez **2 sentiments** + **2 pronoms COD** + le **passé
@@ -78,5 +78,18 @@ m'invites à une glace ! »
 2 pronoms COD · passé composé · réconciliation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 5*

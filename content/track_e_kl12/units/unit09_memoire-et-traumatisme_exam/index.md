@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'ouverture de *Dora Bruder* (Unité 9, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quelle adresse parisienne ?
 5. Pourquoi Modiano s'y intéresse-t-il personnellement ?
 
-### Tâche 2 — Motifs modianiens (8 P.)
+### Tâche 2 — Motifs modianiens (8 points)
 
 Reliez :
 
@@ -51,7 +51,7 @@ Reliez :
 · *retrouver* · creux mémoriel · Dora · Modiano lui-même ·
 manteau gris/pull bordeaux.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre mini-enquête mémorielle** (~400 mots) :
 1 nom oublié + 1 archive citée + 4 traces + interprétation.
@@ -77,5 +77,18 @@ d'enfance de Modiano.
 · 1 archive · 4 traces · interprétation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 9*

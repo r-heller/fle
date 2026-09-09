@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le mail médié (Unité 11, texte C, FR). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le mail médié (Unité 11, texte C, FR). Répondez :
 3. Quel événement est mentionné ?
 4. Quelle formule de clôture est utilisée ?
 
-### Tâche 2 — Lexique professionnel FR ↔ DE (8 P.)
+### Tâche 2 — Lexique professionnel FR ↔ DE (8 points)
 
 Donnez l'équivalent **français** :
 
@@ -46,7 +46,7 @@ Donnez l'équivalent **français** :
 3. *Sehr geehrte Frau Lambert,* → ___
 4. *Könnten Sie das weiterleiten ?* → ___
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») + dialogue (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») + dialogue (14 points)
 
 À partir de ce **mail allemand**, médiez en français pro **et**
 prolongez par un dialogue téléphonique (6 répliques, ~150
@@ -83,5 +83,18 @@ Lyon ? Avec mes remerciements, Eva Schmidt.* + 6 répliques
 téléphone libre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 11*

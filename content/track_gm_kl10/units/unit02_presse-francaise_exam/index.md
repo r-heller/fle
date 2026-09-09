@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la une du Monde (Unité 2, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la une du Monde (Unité 2, texte C). Répondez :
 4. Quels deux secteurs sont en retard ?
 5. Quel est le titre de l'éditorial ?
 
-### Tâche 2 — Genres et types (8 P.)
+### Tâche 2 — Genres et types (8 points)
 
 Information (I), opinion (O) ou genre (G : éditorial, brève,
 reportage, interview) ?
@@ -49,7 +49,7 @@ reportage, interview) ?
 4. *« Le climatologue répond : "Il faut agir vite." »*
 5. *« Notre journal soutient cette mesure. »*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **revue de presse** (~120 mots) sur un sujet
 d'actualité libre : **3 phrases d'information** (faits,
@@ -78,5 +78,18 @@ il est temps d'accélérer. »
 2 opinions signalées · sujet d'actualité plausible.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 2*

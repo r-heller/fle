@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Hörverstehen / fiche (10 P.)
+### Tâche 1 — Hörverstehen / fiche (10 points)
 
 Lisez la fiche *Bonbon au poivre* (Unité 4, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quels 3 plans-clés sont décrits ?
 5. Que symbolise le bonbon ?
 
-### Tâche 2 — Termes filmiques (8 P.)
+### Tâche 2 — Termes filmiques (8 points)
 
 Reliez chaque terme à sa définition :
 
@@ -50,7 +50,7 @@ Reliez chaque terme à sa définition :
 saut temporel · narrateur invisible · visage en gros · 2
 plans alternés · large · coupe nette.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez la **fiche d'analyse** (~250 mots) d'un court-métrage
 au choix : 4 étapes + 6 termes filmiques + 1 citation.
@@ -78,5 +78,18 @@ managériale.
 4 étapes · 6 termes · 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 4*

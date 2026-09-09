@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait *King Kong théorie* (Unité 8, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Selon elle, qui le patriarcat abîme-t-il ?
 5. Quel est le ton du texte (registres) ?
 
-### Tâche 2 — Concepts gender (8 P.)
+### Tâche 2 — Concepts gender (8 points)
 
 Reliez :
 
@@ -50,7 +50,7 @@ Reliez :
 masculin · refus des cases · iel/toustes · autonomisation ·
 Hashtag 2017 · vague récente.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **dialogue** (~300 mots, 15 répliques) à partir
 d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
@@ -79,5 +79,18 @@ d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
 exemple.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 8*

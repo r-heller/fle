@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock 2)
 
-### Tâche 1 — Verstehen (10 P.) — 60 min
+### Tâche 1 — Verstehen (10 points) — 60 min
 
 Lisez l'extrait *Chanson douce* (Unité 5, texte C). Répondez :
 
@@ -38,13 +38,13 @@ Lisez l'extrait *Chanson douce* (Unité 5, texte C). Répondez :
 4. Le matin, que demande Mila ?
 5. Quel mot apparaît à la fin et pourquoi inquiète-t-il ?
 
-### Tâche 2 — Analyse stylistique (12 P.) — 90 min
+### Tâche 2 — Analyse stylistique (12 points) — 90 min
 
 Rédigez (~350 mots) : *« Le danger derrière la douceur »*
 — 3 procédés stylistiques + interprétation du mot *vide*
 + 1 référence à *L'Étranger* OU *Dora Bruder*.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
 
 Médiez ce texte allemand (~280 mots) :
 
@@ -87,5 +87,18 @@ nommée en 2017 par Emmanuel Macron déléguée à la
 francophonie.* (~280 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 32 points)" collapse="true" >}}
+**Total.** 32 points
+
+| Points | Note |
+|---|---|
+| 30–32 | 1 |
+| 26–29 | 2 |
+| 22–25 | 3 |
+| 16–21 | 4 |
+| 10–15 | 5 |
+| 0–9 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 5*

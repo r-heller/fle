@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'annonce + la lettre de Léa (Unité 1, textes C+D).
 Répondez :
@@ -39,14 +39,14 @@ Répondez :
 4. Pourquoi Léa cite-t-elle son Praktikum de 9ᵉ ?
 5. Quelle est la formule finale de sa lettre ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Donnez l'**équivalent français** (ou définition simple) :
 
 - Ausbildung · FSJ · Berufskolleg · Mentor · CDI · CDD ·
  un(e) apprenti(e) · une candidature spontanée.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre candidature spontanée** en **180 mots** pour
 un poste de votre choix. Structure : intro (présentation),
@@ -80,5 +80,18 @@ annonce préalable.
 complète · 2 atouts · formule polie · mention CV.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 1*

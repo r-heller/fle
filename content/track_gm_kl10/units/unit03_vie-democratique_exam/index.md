@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez « La Vᵉ République en 3 dates » (Unité 3, texte D).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quelle est la durée du quinquennat ? Depuis quand ?
 5. Quelle est la chambre basse française ? Combien de membres ?
 
-### Tâche 2 — France / Allemagne (8 P.)
+### Tâche 2 — France / Allemagne (8 points)
 
 Complétez le tableau comparatif :
 
@@ -50,7 +50,7 @@ Complétez le tableau comparatif :
 | Chef du gouvernement | | |
 | Chambre haute | | |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez les **institutions françaises** en **150 mots** :
 3 institutions clés (rôle, mandat) + 3 différences avec
@@ -80,5 +80,18 @@ Bundespräsident élu indirect · Bundeskanzler · Bundesrat
 institutions · 3 différences · 2 dates.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 3*

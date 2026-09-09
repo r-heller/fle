@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock)
 
-### Tâche 1 — Verstehen (10 P.) — 60 min
+### Tâche 1 — Verstehen (10 points) — 60 min
 
 Lisez le texte sur la loi IA (Unité 11, texte C).
 Répondez :
@@ -39,14 +39,14 @@ Répondez :
 4. Qui sont les deux personnes citées ?
 5. Quelle position défend chacun·e ?
 
-### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 P.) — 90 min
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
 
 Rédigez un **commentaire personnel** (~350 mots) :
 pour ou contre cette loi, en mobilisant **1 référence**
 (Camus, Despentes, Senghor, Modiano…). 4 § + 4
 connecteurs + 2 citations.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
 
 Médiez ce texte allemand en français (~280 mots) :
 
@@ -86,5 +86,18 @@ européenne sera efficace. Le texte allemand est attendu pour
 2027.* (~280 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 11*

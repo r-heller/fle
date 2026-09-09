@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Hörverstehen (12 P.)
+### Tâche 1 — Hörverstehen (12 points)
 
 Écoutez l'annonce du guide (Unité 11, texte C). Répondez :
 
@@ -39,14 +39,14 @@ curriculum:
 5. Quels tarifs (adulte / jeune) ?
 6. Combien coûte l'audioguide ?
 
-### Tâche 2 — Vocabulaire (6 P.)
+### Tâche 2 — Vocabulaire (6 points)
 
 Traduisez :
 
 - ein Guide · ein Museum · der Eintritt · die Führung ·
  ein Audioguide · der Tarif.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **une visite** d'un monument en **70 mots** : nom +
 lieu + date + 2 particularités + votre avis.
@@ -72,5 +72,18 @@ lieu + date + 2 particularités + votre avis.
 demandés · vocabulaire correct.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 11*

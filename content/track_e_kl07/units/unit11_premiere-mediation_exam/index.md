@@ -28,13 +28,13 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
 
 Lisez le texte allemand ZKM (Unité 11, texte C). **Médiez** son
 contenu en **français** pour un(e) ami(e) québécois(e) en
 **5 phrases** (~70 mots). Pas de mot-à-mot.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Vrai ou faux ? (sur le texte source)
 
@@ -45,7 +45,7 @@ Vrai ou faux ? (sur le texte source)
 | 3 | Les enfants de moins de 12 ans payent 4 €. | ☐ | ☐ |
 | 4 | C'est un musée d'art numérique. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (7 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (7 points)
 
 Écrivez un **courriel** (~50 mots) à un(e) ami(e) québécois(e)
 qui visite Karlsruhe : invitez-le/la au ZKM en résumant les
@@ -75,5 +75,18 @@ Critères : 5 phrases · sens transmis · pas de mot-à-mot.
 courriel · 3 infos pratiques · ton amical (*tu*).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 11*

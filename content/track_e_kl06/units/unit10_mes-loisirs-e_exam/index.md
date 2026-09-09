@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -38,7 +38,7 @@ Traduisez :
 Plus, traduisez : *toujours · souvent · jamais · parfois·
 rarement*.
 
-### Tâche 2 — *Faire de / jouer à / jouer de* (8 P.)
+### Tâche 2 — *Faire de / jouer à / jouer de* (8 points)
 
 Conjuguez et complétez avec la bonne préposition.
 
@@ -51,7 +51,7 @@ Conjuguez et complétez avec la bonne préposition.
 7. Vous *(faire)* ___ danse.
 8. On *(jouer)* ___ foot.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **vos loisirs** en **70 mots** : 2 sports + 1
 instrument + 3 adverbes de fréquence + 1 invitation à un(e)
@@ -79,5 +79,18 @@ au · 5) font de la · 6) joue du · 7) faites de la · 8) joue au.
 1 instrument · 3 fréquences · 1 invitation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 10*

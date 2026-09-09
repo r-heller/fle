@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le journal de détox (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le journal de détox (Unité 8, texte C). Répondez :
 4. Que lit-elle le 3ᵉ jour ?
 5. Comment réinstalle-t-elle Instagram ?
 
-### Tâche 2 — Conditionnel pour conseiller (8 P.)
+### Tâche 2 — Conditionnel pour conseiller (8 points)
 
 Reformulez avec « Si …, tu … » :
 
@@ -47,7 +47,7 @@ Reformulez avec « Si …, tu … » :
 3. désactiver / moins distrait → ___
 4. vérifier / pas de désinfo → ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **dialogue** (~140 mots, 10 répliques) avec un·e
 ami·e sur l'usage des RS : 5 pièges + 5 stratégies + 2
@@ -77,5 +77,18 @@ Comparaison sociale. 4) Article du *Monde* sur le climat.
 répliques · 5 pièges · 5 stratégies.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 8*

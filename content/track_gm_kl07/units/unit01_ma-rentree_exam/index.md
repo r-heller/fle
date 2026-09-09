@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Lecture (10 P.) : dialogue Léa-Théo (Unité 1, B)
+### Tâche 1 — Lecture (10 points) : dialogue Léa-Théo (Unité 1, B)
 
 1. À quelle heure ont-ils cours de français ?
 2. Qui est la nouvelle prof ?
@@ -36,12 +36,12 @@ curriculum:
 4. Combien de phrases dit Théo ?
 5. Que veut dire *« avoir l'air sympa »* ?
 
-### Tâche 2 — Expression orale (« Sprechen ») mündlich (10 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (10 points)
 
 Avec un·e camarade : dialogue de rentrée (~1 min). 3 questions
 + réponses : vacances · profs · sentiment.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez **~50 mots** sur votre rentrée : sentiment · 1 prof ·
 1 nouveauté.
@@ -54,5 +54,18 @@ Avec un·e camarade : dialogue de rentrée (~1 min). 3 questions
 4) 3. 5) Donner l'impression d'être agréable.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 1*

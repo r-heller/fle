@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Vocabulaire jours/mois (10 P.)
+### Tâche 1 — Vocabulaire jours/mois (10 points)
 
 Traduisez :
 
@@ -36,13 +36,13 @@ Traduisez :
  Samstag, Sonntag.
 - 5 mois : Januar, März, Mai, August, Dezember.
 
-### Tâche 2 — Heure (10 P.)
+### Tâche 2 — Heure (10 points)
 
 Écrivez l'heure en français :
 
 1. 8h15 · 2. 12h30 · 3. 14h45 · 4. 17h00 · 5. 23h30.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez **3 dates** importantes pour vous (anniversaire, fête,
 événement) avec **jour + heure** quand pertinent.
@@ -59,5 +59,18 @@ midi trente. 3) quinze heures moins le quart. 4) dix-sept heures.
 5) vingt-trois heures trente.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 7*

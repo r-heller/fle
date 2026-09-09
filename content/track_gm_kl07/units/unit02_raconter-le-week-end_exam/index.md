@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Grammatik : passé composé (12 P.)
+### Tâche 1 — Grammatik : passé composé (12 points)
 
 Conjuguez au passé composé.
 
@@ -41,7 +41,7 @@ Conjuguez au passé composé.
 7. Léa *(parler)* à sa grand-mère.
 8. On *(rester)* à la maison dimanche.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le mini-récit de Léa (Unité 2, texte C). Vrai ou faux ?
 
@@ -52,7 +52,7 @@ Lisez le mini-récit de Léa (Unité 2, texte C). Vrai ou faux ?
 | 3 | Léa est allée chez sa grand-mère à Strasbourg. | ☐ | ☐ |
 | 4 | Léa et sa grand-mère sont rentrées à 17h. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Racontez **votre week-end** en **5 phrases** (~70 mots).
 Au moins **3 verbes au passé composé** dont **1 avec *être***.
@@ -79,5 +79,18 @@ passé composé · 1 verbe avec *être* · accord du participe avec
 *être*.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 2*

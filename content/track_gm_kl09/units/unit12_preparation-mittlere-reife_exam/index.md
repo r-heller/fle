@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 4. Citez **3 thèmes** abordés cette année.
 5. Quel est son projet pour la 10ᵉ ? Et son rêve plus tard ?
 
-### Tâche 2 — médiation linguistique (« Sprachmittlung ») (8 P.)
+### Tâche 2 — médiation linguistique (« Sprachmittlung ») (8 points)
 
 Médiez en **3 phrases françaises** :
 
@@ -46,7 +46,7 @@ Médiez en **3 phrases françaises** :
 > einem 3-minütigen Vortrag und einem Gespräch. Die Prüfer
 > stellen Fragen zu deinem Thema. »*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre bilan de 9ᵉ** en **150 mots** : intro + 3
 paragraphes (3 réussites · 2 difficultés · 1 projet) +
@@ -78,5 +78,18 @@ sens transmis · pas de mot-à-mot.
 connecteurs · 3 temps · plan complet.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 12*

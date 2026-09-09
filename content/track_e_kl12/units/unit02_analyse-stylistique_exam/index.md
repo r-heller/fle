@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la scène du meurtre (Unité 2, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la scène du meurtre (Unité 2, texte C). Répondez :
 4. Quelle métaphore finale ?
 5. Que dit Meursault sur l'équilibre du jour ?
 
-### Tâche 2 — Outils stylistiques (8 P.)
+### Tâche 2 — Outils stylistiques (8 points)
 
 Reliez chaque outil à sa définition :
 
@@ -49,7 +49,7 @@ Reliez chaque outil à sa définition :
 AB-BA · sens inverse · dire moins · description visuelle ·
 plusieurs voix · titre/dédicace.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre étude stylistique** (~400 mots) d'un
 passage de *L'Étranger* ou *La Peste* : 5 étapes
@@ -78,5 +78,18 @@ avait été heureux.
 étapes · 4 outils · 5 citations.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 2*

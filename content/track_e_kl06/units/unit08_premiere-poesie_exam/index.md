@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez *Le Cancre* de Jacques Prévert (Unité 8, texte C).
 Répondez :
@@ -40,14 +40,14 @@ Répondez :
 4. Que dessine-t-il à la fin ?
 5. Que symbolise « le visage du bonheur » ?
 
-### Tâche 2 — Vocabulaire poétique (8 P.)
+### Tâche 2 — Vocabulaire poétique (8 points)
 
 Définition simple :
 
 - un cancre · un fou rire · une menace · un piège ·
  une craie · une huée · un maître · un tableau noir.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Écrivez **votre petit poème** *« à la manière de Prévert »* en
 **50 mots / 8-10 vers libres** : sujet au choix (école,
@@ -78,5 +78,18 @@ enseignant · tableau de classe.
 1 énumération de 3 éléments · style simple.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 8*

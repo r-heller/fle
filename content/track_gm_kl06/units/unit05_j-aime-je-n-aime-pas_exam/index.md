@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Grammatik / négation (12 P.)
+### Tâche 1 — Grammatik / négation (12 points)
 
 Mettez à la forme **négative** *ne … pas* :
 
@@ -39,7 +39,7 @@ Mettez à la forme **négative** *ne … pas* :
 5. Vous allez au cinéma.
 6. Ils habitent à Paris.
 
-### Tâche 2 — Lecture + goûts (8 P.)
+### Tâche 2 — Lecture + goûts (8 points)
 
 Lisez le mini-dialogue (Unité 5, texte C). Complétez :
 
@@ -48,7 +48,7 @@ Lisez le mini-dialogue (Unité 5, texte C). Complétez :
 - Théo adore : ____________________
 - Théo déteste : ____________________
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez **5 phrases** sur vos goûts : 2 choses adorées + 2
 détestées + 1 ambivalente (*j'aime bien · pas trop*). Au moins
@@ -75,5 +75,18 @@ Paris.
 déteste : les épinards.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 5*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 La prof lit deux fois le dialogue Léa-Hugo. Répondez :
 
@@ -38,13 +38,13 @@ La prof lit deux fois le dialogue Léa-Hugo. Répondez :
 4. Que dit Hugo à la fin ?
 5. Comment Léa demande-t-elle poliment ?
 
-### Tâche 2 — Vocabulaire (10 P.)
+### Tâche 2 — Vocabulaire (10 points)
 
 Traduisez : 1) la pomme · 2) die Karotte · 3) la fraise · 4) der
 Salat · 5) la baguette · 6) der Apfel · 7) la tomate · 8) die
 Banane · 9) le pain au chocolat · 10) die Kartoffel.
 
-### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 points)
 
 Achat simulé en binôme : 3 produits + total. Critères :
 Erfüllung 4 P · Aussprache 4 P · Langue 2 P.
@@ -62,5 +62,18 @@ bonne journée. 5) *Je voudrais …* + *s'il vous plaît*.
 terre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 6*

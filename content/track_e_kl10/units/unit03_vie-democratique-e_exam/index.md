@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le dossier civique (Unité 3, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le dossier civique (Unité 3, texte C). Répondez :
 4. Pour combien d'années sont élus les députés ? Les sénateurs ?
 5. Que vérifie le Conseil constitutionnel ?
 
-### Tâche 2 — Institutions (8 P.)
+### Tâche 2 — Institutions (8 points)
 
 Reliez chaque lieu à sa fonction :
 
@@ -49,7 +49,7 @@ Reliez chaque lieu à sa fonction :
 nationale · Sénat · juges des lois · juridiction
 administrative.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre présentation civique** (~150 mots) :
 3 pouvoirs + 2 institutions par pouvoir + séparation des
@@ -77,5 +77,18 @@ juridiction admin.
 pouvoirs · 2 institutions/pouvoir · 1 comparaison FR/DE.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 3*

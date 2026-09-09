@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 Écoutez la présentation orale de *Monsieur Lazhar* (Unité 10,
 texte C). Répondez :
@@ -39,7 +39,7 @@ texte C). Répondez :
 4. Quel est le métier de Bachir ?
 5. Quel est le thème du film ?
 
-### Tâche 2 — Vocabulaire cinéma (8 P.)
+### Tâche 2 — Vocabulaire cinéma (8 points)
 
 Reliez chaque mot à sa définition :
 
@@ -50,7 +50,7 @@ Reliez chaque mot à sa définition :
 fictive · moment du film · liste des participants · interprète
 · catégorie.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez par écrit un **film francophone** de votre choix
 (~120 mots) : titre + année + réalisateur·rice + acteur
@@ -80,5 +80,18 @@ genre = catégorie.
 éléments demandés · vocabulaire de cinéma.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 10*

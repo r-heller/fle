@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre d'adieu de Léa (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la lettre d'adieu de Léa (Unité 12, texte C). Répondez :
 4. Quels **2 projets** pour la 11ᵉ ?
 5. Quelle est la phrase-clé qui résume sa transformation ?
 
-### Tâche 2 — Auto-évaluation CECRL (5 P.)
+### Tâche 2 — Auto-évaluation CECRL (5 points)
 
 Notez-vous (A2, B1, B2) sur les 5 compétences. **Justifiez** en
 1 phrase pour deux d'entre elles.
@@ -51,7 +51,7 @@ Notez-vous (A2, B1, B2) sur les 5 compétences. **Justifiez** en
 | Expression orale (« Sprechen ») | | |
 | Médiation | | |
 
-### Tâche 3 — Expression écrite (15 P.)
+### Tâche 3 — Expression écrite (15 points)
 
 Rédigez **votre lettre d'adieu** (~250 mots) à votre classe /
 prof(esseur) de français. Plan : intro + bilan (3 souvenirs) +
@@ -80,5 +80,18 @@ n'est plus une matière. C'est devenu une partie de moi. »
 complet · 2 figures · 5 connecteurs · sincérité.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 12*

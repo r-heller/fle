@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
 4. Quelle citation de *L'Homme révolté* ?
 5. Quelle est la chute du monologue ?
 
-### Tâche 2 — Stratégies anti-stress (8 P.)
+### Tâche 2 — Stratégies anti-stress (8 points)
 
 Reliez chaque stratégie à son effet :
 
@@ -49,7 +49,7 @@ Reliez chaque stratégie à son effet :
 panique · projette voix · vérifie compréhension · détend
 visage.)
 
-### Tâche 3 — Plan de monologue (12 P.)
+### Tâche 3 — Plan de monologue (12 points)
 
 Préparez **votre plan de monologue 5 min** sur un sujet
 au choix (Camus / Senghor / Slimani / Despentes /
@@ -79,5 +79,18 @@ bas de la montagne. On retrouve toujours son fardeau. »*
 citations · 1 chute · 5 cartes mémoire.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 7*

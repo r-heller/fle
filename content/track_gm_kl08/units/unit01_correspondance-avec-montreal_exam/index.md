@@ -34,7 +34,7 @@ stimulus original ; aucun extrait de manuel ou d'épreuve publié
 n'a été reproduit.
 {{< /callout >}}
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le courriel d'Inès Tremblay, élève à Montréal.
 
@@ -65,13 +65,13 @@ citation courte du texte.
 | 4 | Inès aime l'improvisation théâtrale. | ☐ | ☐ | |
 | 5 | Au Québec, certains mots ont un sens différent qu'en France. | ☐ | ☐ | |
 
-### Tâche 2 — médiation linguistique (« Sprachmittlung ») (5 P.)
+### Tâche 2 — médiation linguistique (« Sprachmittlung ») (5 points)
 
 Vous écrivez une note rapide en allemand pour votre mère, qui
 ne lit pas le français. Résumez en **3 phrases** ce qu'Inès
 raconte de sa semaine.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
 
 Vous êtes Léa. Répondez à Inès dans un courriel d'environ **80
 mots**. Mentionnez :
@@ -113,5 +113,18 @@ Improvisation. Abends fährt sie mit der U-Bahn nach Hause.*
 **Tâche 3.** Voir modèle dans l'Unité 1, section 4 « Produire ».
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 1*

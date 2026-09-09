@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
 
@@ -38,14 +38,14 @@ Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
 4. Quel est le programme de demain ?
 5. Comment Léa termine-t-elle sa lettre ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez :
 
 - mobben · beleidigen · sich lustig machen · isolieren ·
  Zeugin · melden · das Vertrauen · die Hilfe.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **lettre de soutien** (~120 mots) à un(e) ami(e)
 victime de harcèlement : reconnaître la situation, proposer
@@ -75,5 +75,18 @@ intelligente, importante. 4) Voir le CPE tous les trois.
 concrètes · 2 mots du lexique · 3018 cité · ton bienveillant.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 7*

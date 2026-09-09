@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
 4. Citez les **5 pays** au plus grand nombre de locuteurs.
 5. Que veut dire OIF ? AUF ?
 
-### Tâche 2 — Géographie (8 P.)
+### Tâche 2 — Géographie (8 points)
 
 Classez ces 8 pays/régions par zone (Europe, Afrique, Amériques,
 Pacifique, Maghreb/Levant) :
@@ -46,7 +46,7 @@ Pacifique, Maghreb/Levant) :
 - Sénégal · Polynésie française · Belgique · Haïti · Liban ·
  Vanuatu · Maroc · RDC.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **un pays francophone** au choix en **150 mots** :
 situation géographique · statut du français · 1 trait culturel
@@ -76,5 +76,18 @@ Liban, Maroc.
 intro/dév/conclu · 4 éléments demandés.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 4*

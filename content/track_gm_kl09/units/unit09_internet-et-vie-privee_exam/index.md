@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article CNIL (Unité 9, texte D). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'article CNIL (Unité 9, texte D). Répondez :
 4. Combien d'ados ont reçu un commentaire méchant ?
 5. Citez **3 solutions** proposées.
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez :
 
@@ -46,7 +46,7 @@ Traduisez :
  die Desinformation · die Sucht · das Phishing ·
  der Datenverkauf · das Recht auf Vergessen.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Prise de position (~**150 mots**) :
 
@@ -81,5 +81,18 @@ l'oubli.
 complet · 5 connecteurs · arguments concrets.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 9*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
 
 Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
 
@@ -39,14 +39,14 @@ Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
 5. Qu'a-t-elle acheté en magasinant ?
 6. Que va-t-elle faire le mois prochain ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez les québécismes en français de France.
 
 - char · chum · magasiner · dépanneur · souper ·
  déjeuner · blonde · dîner.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez une **réponse à Inès** en **80 mots** : votre saison,
 ce que vous mangez le week-end, ce que vous faites. Utilisez
@@ -74,5 +74,18 @@ quartier · dîner · petit-déjeuner · copine · déjeuner.
 · 2 québécismes guillemetés · cohérence saison.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 8*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la lettre d'Anouk (Unité 2, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez la lettre d'Anouk (Unité 2, texte C). Répondez :
 3. Combien de jours dure le stage souhaité ?
 4. Quelle formule de clôture utilise-t-elle ?
 
-### Tâche 2 — Formules de politesse (10 P.)
+### Tâche 2 — Formules de politesse (10 points)
 
 Choisissez la formule correcte pour chaque situation :
 
@@ -47,7 +47,7 @@ Choisissez la formule correcte pour chaque situation :
 4. Souhait de réponse : *Dans ___ de votre réponse, …*
 5. Date de lettre : *Karlsruhe, ___ 12 octobre 2026.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre lettre de motivation** (~180 mots) pour un
 stage en France ou Suisse romande : structure 3 § (Vous /
@@ -75,5 +75,18 @@ aimerais · 3) *Veuillez agréer …* · 4) *l'attente* · 5) *le*.
 4 politesse · 3 conditionnels.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 2*

@@ -28,14 +28,14 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
 
 Lisez le **Frankreich-Knigge** (Unité 8, texte C).
 **Médiez** son contenu en **français** en **5 phrases**
 (~70 mots) pour un(e) ami(e) qui prépare un échange en France.
 Pas de mot-à-mot — l'essentiel.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (5 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (5 points)
 
 Vrai ou faux ? (Sur le texte source.)
 
@@ -47,7 +47,7 @@ Vrai ou faux ? (Sur le texte source.)
 | 4 | Il faut dire bonjour en entrant dans un magasin. | ☐ | ☐ |
 | 5 | On ne discute pas à table. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Présentez en **100 mots** **3 différences** culturelles entre
 votre vie et celle d'un(e) Français(e). Pour chaque différence,
@@ -81,5 +81,18 @@ différences · faits nuancés (pas stéréotypes) · *en moyenne /
 souvent / selon la région*.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 8*
