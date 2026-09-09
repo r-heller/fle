@@ -1,0 +1,38 @@
+# Zaehlmarken, die bei VG Wort registriert sind, aber auf keiner
+# Seite dieses Kurses mehr erscheinen. Sie stammen aus dem
+# Quarto-Manifest vgwort-manifest.csv, das die Umstellung auf Hugo
+# nicht ueberlebt hat: die Seiten wurden umbenannt oder
+# zusammengelegt, die Registrierungen blieben.
+#
+# Diese Datei ist ein NACHWEIS, keine zweite Registratur. Die
+# einzige Quelle dafuer, welche Marke wo erscheint, ist
+# data/vgwort.yaml. Eine Marke von hier gehoert dorthin, sobald es
+# wieder eine Seite gibt, die sie traegt - VG Wort gibt sie nicht
+# neu aus, sie ist also nicht ersetzbar.
+public_id,former_qmd_path,former_md_path
+1bc684db552e471aac7223b955bb6d11,track_e_kl06/index.qmd,content/track_e_kl06/_index.md
+1be382541698404ba9bbb11b9d677224,track_e_kl06/uebersicht.qmd,content/track_e_kl06/uebersicht.md
+1d5ad4f111e2453aa8da00cf4da53d0e,track_e_kl07/index.qmd,content/track_e_kl07/_index.md
+1d666cdaf5fb421fbd5eecbd4798a0f2,track_e_kl07/uebersicht.qmd,content/track_e_kl07/uebersicht.md
+1ef4d7f41e8848e3ad6ef10309cc1627,track_e_kl08/index.qmd,content/track_e_kl08/_index.md
+1f173b1acb6f4da1bf1139a279016a5d,track_e_kl08/uebersicht.qmd,content/track_e_kl08/uebersicht.md
+208c48dfb1604b9fb07d003188ad75c0,track_e_kl09/index.qmd,content/track_e_kl09/_index.md
+209bbb3fa31744ee89d2168ab1dbc3f3,track_e_kl09/uebersicht.qmd,content/track_e_kl09/uebersicht.md
+22785e759724430483fb09ae3909f5e9,track_e_kl10/index.qmd,content/track_e_kl10/_index.md
+22870f6691ab48a6abd011f035d73b10,track_e_kl10/uebersicht.qmd,content/track_e_kl10/uebersicht.md
+23b158a72df54f0684c5b2380c43a8e9,track_e_kl11/index.qmd,content/track_e_kl11/_index.md
+23b9d054097b44c1b183bc9386b002a2,track_e_kl11/uebersicht.qmd,content/track_e_kl11/uebersicht.md
+258d4552a089402a956ec9e3a040a6d0,track_e_kl12/index.qmd,content/track_e_kl12/_index.md
+25963308ce3640a18d0df8bf95a90cf6,track_e_kl12/uebersicht.qmd,content/track_e_kl12/uebersicht.md
+26fddee2be7b4ffba26dc95ea73c7714,track_e_kl13/index.qmd,content/track_e_kl13/_index.md
+26ff71c35b6949fd98842b0f52397de9,track_e_kl13/uebersicht.qmd,content/track_e_kl13/uebersicht.md
+28b4d1dde71e4d269a4f381c8679b5d9,track_gm_kl06/index.qmd,content/track_gm_kl06/_index.md
+28bab522cdc4414a88c859f764669716,track_gm_kl06/uebersicht.qmd,content/track_gm_kl06/uebersicht.md
+2ac3fac658604d0bbc8c6cb181b632ca,track_gm_kl07/index.qmd,content/track_gm_kl07/_index.md
+2acaef90ec9e47cfa56df73175d017e3,track_gm_kl07/uebersicht.qmd,content/track_gm_kl07/uebersicht.md
+2c32ca894703496f94a3878cc3693c9f,track_gm_kl08/index.qmd,content/track_gm_kl08/_index.md
+2c5bdfb79a5442d18f7d3afecf892bf9,track_gm_kl08/uebersicht.qmd,content/track_gm_kl08/uebersicht.md
+2d8b1da63eb649a596b3e957c4755318,track_gm_kl09/index.qmd,content/track_gm_kl09/_index.md
+2d8d7a317d2f44129bbc5887321ec267,track_gm_kl09/uebersicht.qmd,content/track_gm_kl09/uebersicht.md
+2f051bac8e144f4eb4a4ed63de6b70ad,track_gm_kl10/index.qmd,content/track_gm_kl10/_index.md
+2f1361fc08fb4c38bda7d17b486fde41,track_gm_kl10/uebersicht.qmd,content/track_gm_kl10/uebersicht.md
