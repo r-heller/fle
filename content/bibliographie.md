@@ -60,3 +60,19 @@ N'ont **pas** servi de modèle textuel : Hachette FLE, CLE
 International, Didier, Klett, Cornelsen. Une lecture comparative
 a eu lieu pour vérifier les progressions typiques ; aucun texte
 n'est issu de ces œuvres.
+
+## Comment ces sources sont employées
+
+Les cadres officiels — CECRL et référentiels régionaux — fixent les
+objectifs et le vocabulaire descriptif. Ils sont cités, jamais recopiés : un
+descripteur du CECRL apparaît sous sa forme d'origine quand il faut établir
+une correspondance, et sous une forme reformulée quand il s'adresse à
+l'élève.
+
+Les ouvrages de didactique ont servi à choisir une progression et à décider
+ce qui devait être travaillé avant quoi. Aucun exercice, aucun texte, aucune
+séquence n'en est repris.
+
+Les médias authentiques sont liés, non reproduits. Un lien peut cesser de
+fonctionner : c'est le prix d'une ressource vivante, et la vérification
+automatique des liens signale les ruptures à chaque construction du site.
