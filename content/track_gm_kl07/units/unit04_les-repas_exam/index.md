@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Grammatik : partitifs (10 P.)
+### Tâche 1 — Grammatik : partitifs (10 points)
 
 Complétez avec *du, de la, de l', des, de*.
 
@@ -41,7 +41,7 @@ Complétez avec *du, de la, de l', des, de*.
 7. Il commande ___ jus d'orange.
 8. On ne mange pas ___ viande aujourd'hui.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le dialogue D de l'Unité 4 (au café). Répondez :
 
@@ -50,7 +50,7 @@ Lisez le dialogue D de l'Unité 4 (au café). Répondez :
 3. Que prend Inès comme boisson ?
 4. Inès veut-elle de la confiture ?
 
-### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 points)
 
 Écrivez un **dialogue au café** en **6 répliques** :
 serveur ↔ client(e). Utilisez **3 partitifs** différents.
@@ -76,5 +76,18 @@ jus d'orange. 3) Un chocolat chaud. 4) Non, juste du beurre.
 formules polies (*je voudrais, s'il vous plaît, merci*).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 4*

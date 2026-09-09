@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
 4. Que dit Anouk sur la suite (Lf / Bf / arrêt) ?
 5. Quelle est la chute du discours ?
 
-### Tâche 2 — Figures de style (8 P.)
+### Tâche 2 — Figures de style (8 points)
 
 Identifiez la figure :
 
@@ -49,7 +49,7 @@ Identifiez la figure :
 4. *« Le français, ce n'est pas une matière — c'est une
  manière … »* → ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez votre **discours-cause** (~250 mots) sur un sujet
 au choix : 4 parties + 3 figures + 1 citation + 1 chute
@@ -80,5 +80,18 @@ chiasme / chute (citation marquante).
 parties · 3 figures · 1 citation · 1 chute.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 11*

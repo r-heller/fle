@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Grammatik / Futur simple (10 P.)
+### Tâche 1 — Grammatik / Futur simple (10 points)
 
 Mettez les verbes entre parenthèses au futur simple.
 
@@ -38,7 +38,7 @@ Mettez les verbes entre parenthèses au futur simple.
 4. Léa *(être)* _____________ à Strasbourg dans cinq ans.
 5. Vous *(savoir)* _____________ la réponse après le cours.
 
-### Tâche 2 — Distinguer futur proche / simple (5 P.)
+### Tâche 2 — Distinguer futur proche / simple (5 points)
 
 Pour chaque phrase, choisissez la forme correcte et **justifiez
 en 4–5 mots**.
@@ -47,7 +47,7 @@ en 4–5 mots**.
 2. *Je (vais habiter / habiterai)* à Paris quand j'aurai 25 ans.
 3. *Attention, tu (vas tomber / tomberas)* — la marche est cassée.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
 
 Écrivez environ **80 mots** sur **vos futurs projets**. Au moins
 **6 verbes au futur simple**, dont **2 irréguliers**. Mentionnez :
@@ -85,5 +85,18 @@ voyagerai, aurai, oublierai — 7 verbes, dont* serai *et* aurai
 *irréguliers.)*
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 4*

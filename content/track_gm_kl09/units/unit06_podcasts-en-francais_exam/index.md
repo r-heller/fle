@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Hörverstehen (15 P.)
+### Tâche 1 — Hörverstehen (15 points)
 
 Écoutez le podcast *Choses à Savoir* (Unité 6, texte C).
 Répondez :
@@ -46,14 +46,14 @@ Remplissez la grille **3-2-1** :
 | 2 idées principales | |
 | 1 avis personnel | |
 
-### Tâche 2 — Vocabulaire (5 P.)
+### Tâche 2 — Vocabulaire (5 points)
 
 Traduisez :
 
 - die Folge (Episode) · der Moderator · das Studio · der Auszug
  · abonnieren.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Rédigez un **résumé en 5 phrases** (~80 mots) du podcast :
 titre + sujet + 2 idées-clés + votre avis personnel.
@@ -85,5 +85,18 @@ domine* ; avis libre.
 sujet + 2 idées + avis · 80 mots.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 6*

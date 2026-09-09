@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la description (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la description (Unité 8, texte C). Répondez :
 4. Quelles couleurs dominantes ?
 5. Quelle citation conclut la description ?
 
-### Tâche 2 — Termes de description (8 P.)
+### Tâche 2 — Termes de description (8 points)
 
 Reliez :
 
@@ -48,7 +48,7 @@ Reliez :
 (Définitions : devant · derrière · lumière de face · hauteur
 hanche · clair-obscur · découpe · milieu · environnement.)
 
-### Tâche 3 — Description + discussion (12 P.)
+### Tâche 3 — Description + discussion (12 points)
 
 À partir d'une **photo fournie** (au choix : photo Frontex /
 photo Mollat / photo manifestation climat), rédigez :
@@ -83,5 +83,18 @@ adopté »* (Ben Jelloun).
 (objectif/technique/interprétation/personnel).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 8*

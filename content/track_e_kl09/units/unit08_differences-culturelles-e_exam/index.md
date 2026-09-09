@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la fiche-comparaison (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la fiche-comparaison (Unité 8, texte C). Répondez :
 4. Comment se saluent la plupart des Allemand·e·s ?
 5. Que respecte-t-on tous·tes en Allemagne ?
 
-### Tâche 2 — Modalisation (8 P.)
+### Tâche 2 — Modalisation (8 points)
 
 Reformulez avec *certain·e·s, beaucoup, la plupart, tous·tes* :
 
@@ -47,7 +47,7 @@ Reformulez avec *certain·e·s, beaucoup, la plupart, tous·tes* :
 3. 50 % des Allemands font le hug → ___
 4. 25 % des Français vouvoient leurs profs → ___
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (12 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (12 points)
 
 Médiez ces 3 phrases en français (~140 mots cumulés) :
 
@@ -80,5 +80,18 @@ l'Abendbrot à 18 h. La plupart des Français font 2 à 4
 bises pour saluer.*
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 8*

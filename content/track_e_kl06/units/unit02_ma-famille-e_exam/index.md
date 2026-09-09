@@ -28,14 +28,14 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
 - der Vater · die Mutter · der Bruder · die Schwester · der Opa
  · die Oma · der Onkel · die Tante · der Cousin · die Cousine.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
 
@@ -44,7 +44,7 @@ Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
 3. Où vivent les grands-parents ?
 4. Comment s'appelle le chien ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **votre famille** en **70 mots** : 4 membres minimum,
 prénoms, âges, professions, ville. Utilisez **5 possessifs**
@@ -72,5 +72,18 @@ médecin. 3) Stuttgart. 4) Bello.
 5 possessifs · accord article + possessif.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 2*

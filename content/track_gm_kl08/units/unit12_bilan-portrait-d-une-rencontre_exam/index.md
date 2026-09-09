@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé finale — Niveau M, classe 8
 
-### Tâche unique — Portrait écrit (30 P.)
+### Tâche unique — Portrait écrit (30 points)
 
 Écrivez le **portrait** d'une rencontre francophone (réelle ou
 fictive) que vous avez faite cette année — par écrit, en
@@ -83,5 +83,18 @@ barème de notes (« Notenschlüssel ») typique :
 > hiver. Et je rencontrerai Inès, enfin, en personne.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

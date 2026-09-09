@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le résumé français (Unité 5, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le résumé français (Unité 5, texte C). Répondez :
 3. Quand se déroule-t-il ?
 4. Combien d'artistes participent ?
 
-### Tâche 2 — Verbes de médiation (8 P.)
+### Tâche 2 — Verbes de médiation (8 points)
 
 Complétez avec un verbe de médiation correct :
 
@@ -46,7 +46,7 @@ Complétez avec un verbe de médiation correct :
 3. On ___ que c'est un festival traditionnel.
 4. Le texte ___ 4 grandes tentes.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
 
 À partir de cet article DE (~60 mots), rédigez un **résumé en
 français** (~80 mots) : 3 verbes de médiation + lieu + date +
@@ -82,5 +82,18 @@ billets coûtent à partir de 25 €. Le texte mentionne plus de
 10 000 visiteurs attendus.* (~80 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 5*

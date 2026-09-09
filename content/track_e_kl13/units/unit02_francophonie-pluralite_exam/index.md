@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la présentation francophonie (Unité 2, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quelle citation de Senghor ?
 5. Quelle est la thèse de la présentation ?
 
-### Tâche 2 — Variantes francophones (8 P.)
+### Tâche 2 — Variantes francophones (8 points)
 
 Reliez chaque mot à sa variante :
 
@@ -49,7 +49,7 @@ Reliez chaque mot à sa variante :
 (Variantes : québécois · belge · sénégalais · maghrébin ·
 québécois · belge · maghrébin · québécois.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez votre **dissertation** (~400 mots) : *« La
 francophonie est-elle un héritage colonial ou un patrimoine
@@ -77,5 +77,18 @@ BE · moussa = SN · bezzef/yallah = MA.
 3 citations · 2 références.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 2*

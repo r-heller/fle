@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Hörsehverstehen (12 P.)
+### Tâche 1 — Hörsehverstehen (12 points)
 
 Vous écoutez deux fois le mini-dialogue mère-fille à Montréal
 (Unité 10, texte B). Répondez :
@@ -39,7 +39,7 @@ Vous écoutez deux fois le mini-dialogue mère-fille à Montréal
 4. Citez **deux québécismes** + leur équivalent français
  hexagonal.
 
-### Tâche 2 — Expression orale (« Sprechen ») monologue (12 P.)
+### Tâche 2 — Expression orale (« Sprechen ») monologue (12 points)
 
 Présentez en 2 minutes **un film** que vous avez aimé. Inclure :
 titre + réalisateur·rice + année · histoire en 2-3 phrases · une
@@ -47,7 +47,7 @@ scène marquante · raison de le voir.
 
 Critères : Contenu 5 P. · Langue 4 P. · Aussprache 3 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (6 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (6 points)
 
 Écrivez **3-4 phrases** sur :
 
@@ -71,5 +71,18 @@ Modèles : *plate* = ennuyeux ; *pis* = et puis ; *souper* =
 dîner ; *restant* = restes.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 10*

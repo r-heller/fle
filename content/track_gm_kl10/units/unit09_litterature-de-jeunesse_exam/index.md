@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait du *Temps des miracles* d'A.-L. Bondoux
 (Unité 9, texte C). Répondez :
@@ -39,14 +39,14 @@ Lisez l'extrait du *Temps des miracles* d'A.-L. Bondoux
 4. Quelle est la conclusion personnelle du narrateur ?
 5. Quel est le **thème** principal de l'extrait ?
 
-### Tâche 2 — Analyse littéraire (8 P.)
+### Tâche 2 — Analyse littéraire (8 points)
 
 1. Le narrateur écrit à la **1ʳᵉ** ou à la **3ᵉ** personne ?
 2. Quel **âge** a-t-il au début de l'extrait ?
 3. Quel **registre** (familier, courant, soutenu) ?
 4. Citez **une phrase** qui exprime la **gratitude**.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **avis personnel** structuré (~180 mots) sur
 l'extrait :
@@ -81,5 +81,18 @@ grâce à Gloria. »
 3 connecteurs · cohérence.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 9*

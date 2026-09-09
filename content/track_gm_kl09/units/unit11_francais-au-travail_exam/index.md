@@ -28,14 +28,14 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
 
 Lisez le mail allemand de Caroline (Unité 11, texte C).
 **Médiez** son contenu en **français** (~80 mots) sous forme
 d'un mail professionnel : objet, salutation, corps, formule
 finale, signature.
 
-### Tâche 2 — Vocabulaire (10 P.)
+### Tâche 2 — Vocabulaire (10 points)
 
 Donnez l'équivalent **français simple** :
 
@@ -50,7 +50,7 @@ Donnez l'équivalent **français simple** :
 9. le feedback
 10. un délai
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
 
 Rédigez un **mail-réponse** à Caroline (~50 mots) : confirmer la
 réunion, signaler que vous apportez la clé USB, poser **une**
@@ -83,5 +83,18 @@ internet · 8) accueillir un nouveau · 9) le retour, l'avis ·
 salutation + formule · 1 question · ton professionnel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 11*

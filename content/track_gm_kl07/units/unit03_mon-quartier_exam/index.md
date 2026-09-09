@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -36,7 +36,7 @@ Traduisez :
  die Bank · das Café · der Park · die Bibliothek ·
  die Bushaltestelle · das Rathaus.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le texte C de l'Unité 3 (le quartier de Léa). Vrai/faux :
 
@@ -48,7 +48,7 @@ Lisez le texte C de l'Unité 3 (le quartier de Léa). Vrai/faux :
 | 4 | Le bus n°3 passe devant la mairie. | ☐ | ☐ |
 | 5 | Léa n'aime pas son quartier. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez **votre quartier** en **6 phrases** (~70 mots).
 Au moins **5 lieux** + **3 prépositions de lieu** différentes.
@@ -74,5 +74,18 @@ de bus · la mairie.
 3 prépositions différentes · accord article défini.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 3*

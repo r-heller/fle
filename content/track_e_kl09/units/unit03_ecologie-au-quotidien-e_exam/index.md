@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article éco-gestes (Unité 3, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'article éco-gestes (Unité 3, texte C). Répondez :
 4. Quel pourcentage de déchets le compostage évite-t-il ?
 5. Quelle agence affirme la réduction de 25 % ?
 
-### Tâche 2 — Verbes d'éco-action (8 P.)
+### Tâche 2 — Verbes d'éco-action (8 points)
 
 Conjuguez le verbe correct :
 
@@ -47,7 +47,7 @@ Conjuguez le verbe correct :
 3. Si je ___ (éteindre) ma box, j'économiserais 15 %.
 4. Tu ___ (composter) les épluchures de légumes.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **un dialogue** (~140 mots, 10 répliques) entre vous
 et un·e ami·e sur vos **éco-gestes** : 5 gestes chacun + 1
@@ -74,5 +74,18 @@ de la facture. 4) 40 %. 5) L'ADEME.
 répliques · 5 gestes · 1 conditionnel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 3*

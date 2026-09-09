@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
 
 Lisez le mail médical (Unité 6, texte C). **Médiez** en
 **français** (~120 mots), pour un **destinataire familier**
@@ -36,7 +36,7 @@ Lisez le mail médical (Unité 6, texte C). **Médiez** en
 **registre** (familier / tutoiement) et conservez **toutes les
 infos** essentielles : valeur, recommandations, délai, contact.
 
-### Tâche 2 — médiation linguistique FR → DE (10 P.)
+### Tâche 2 — médiation linguistique FR → DE (10 points)
 
 Médiez en **allemand** (~50 mots) :
 
@@ -45,7 +45,7 @@ Médiez en **allemand** (~50 mots) :
 > tu ne peux pas, ce n'est pas grave, elle empruntera celui
 > de Théo. Bisous, Léa. »*
 
-### Tâche 3 — Reflexion (5 P.)
+### Tâche 3 — Reflexion (5 points)
 
 Pour la Tâche 1, précisez les **4 paramètres** :
 
@@ -83,5 +83,18 @@ niveau B1 · 3) familier (petite-fille) · 4) message
 informel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 6*

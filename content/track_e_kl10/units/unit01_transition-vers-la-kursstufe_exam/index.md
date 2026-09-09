@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre d'Anouk (Unité 1, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la lettre d'Anouk (Unité 1, texte C). Répondez :
 4. Combien d'œuvres complètes prévoit-elle ?
 5. Quel niveau CECRL vise-t-elle ?
 
-### Tâche 2 — Verbes d'engagement au futur simple (8 P.)
+### Tâche 2 — Verbes d'engagement au futur simple (8 points)
 
 Conjuguez :
 
@@ -47,7 +47,7 @@ Conjuguez :
 3. Tu ___ (viser) un Erasmus.
 4. Vous ___ (s'investir) en cours de littérature.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre lettre de motivation** (Lf ou Bf) au comité
 d'orientation (~180 mots) : 3 § + 5 verbes d'engagement + 4
@@ -74,5 +74,18 @@ futurs simples + 2 formules de politesse.
 5 verbes engagement · 4 futurs · 2 politesse.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 1*

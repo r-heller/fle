@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article *IA : qui en profite ?* (Unité 4, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quelle régulation européenne est mentionnée ?
 5. Qui est cité comme économiste Nobel ?
 
-### Tâche 2 — Structure d'un article (8 P.)
+### Tâche 2 — Structure d'un article (8 points)
 
 Identifiez :
 
@@ -48,7 +48,7 @@ Identifiez :
 3. Une **citation d'autorité** : ___
 4. La **chute** : ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre commentaire** (~400 mots) : 4 § (résumé,
 analyse, position, ouverture) + 4 citations + 2 chiffres +
@@ -76,5 +76,18 @@ pétrole »* (Acemoglu) · 4) *« Qui décide de l'avenir ? »*
 4 citations · 2 chiffres · 1 contre-argument.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 4*

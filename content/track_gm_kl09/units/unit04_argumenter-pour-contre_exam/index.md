@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le texte argumenté (Unité 4, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le texte argumenté (Unité 4, texte C). Répondez :
 3. Quel est l'argument contre ?
 4. Quelle est la conclusion ?
 
-### Tâche 2 — Connecteurs (10 P.)
+### Tâche 2 — Connecteurs (10 points)
 
 Complétez avec : *d'abord, ensuite, de plus, cependant,
 toutefois, en conclusion*.
@@ -50,7 +50,7 @@ toutefois, en conclusion*.
 > *danse, course). (6) ___, je suis pour le sport quotidien*
 > *avec un large choix d'activités.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **prise de position argumentée** (~150 mots) sur :
 
@@ -82,5 +82,18 @@ cours, pas tout le temps scolaire.
 · 5 connecteurs · thèse claire.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 4*

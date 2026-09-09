@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
 4. Quelle proportion garde malgré tout ses comptes ?
 5. Citez **3 solutions** proposées.
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Définition simple en français :
 
@@ -46,7 +46,7 @@ Définition simple en français :
  la détox numérique · l'algorithme · le filtre beauté ·
  la comparaison · le syndrome de l'imposteur.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Prise de position (~**150 mots**) :
 
@@ -80,5 +80,18 @@ autres · sentiment de ne pas mériter sa place.
 · 5 connecteurs · arguments concrets.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 8*

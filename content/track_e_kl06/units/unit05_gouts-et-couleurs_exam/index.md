@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -38,7 +38,7 @@ Traduisez :
 Plus, traduisez : *j'adore · j'aime · je n'aime pas · je
 déteste*.
 
-### Tâche 2 — Accord (8 P.)
+### Tâche 2 — Accord (8 points)
 
 Complétez avec la bonne forme.
 
@@ -49,7 +49,7 @@ Complétez avec la bonne forme.
 5. Un manteau *(vert)* ___.
 6. Des cheveux *(jaune)* ___.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Présentez **vos goûts** en **70 mots** : 2 j'adore + 1 j'aime
 + 1 je n'aime pas + 1 je déteste. Citez **3 couleurs** avec
@@ -77,5 +77,18 @@ pas · je déteste.
 goût · 3 couleurs accordées.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 5*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le récit de parcours d'Anouk (Unité 10, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quelle citation d'Ernaux est mentionnée ?
 5. Que fera Anouk en septembre 2030 ?
 
-### Tâche 2 — 6 axes de réflexion (8 P.)
+### Tâche 2 — 6 axes de réflexion (8 points)
 
 Reliez chaque axe à sa question :
 
@@ -50,7 +50,7 @@ Reliez chaque axe à sa question :
 moi ? · Quel·le·s auteur·e·s ? · Qu'ai-je trouvé difficile ?
 · De quoi suis-je fier·ère ? · Qu'en ferai-je ?)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre récit de parcours FLE** (~500 mots) :
 6 axes + 5 moments-clés + 4 citations littéraires + 1
@@ -78,5 +78,18 @@ Bordeaux, chez Mollat.
 · 5 moments · 4 citations · 1 projet · 1 chute.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 10*

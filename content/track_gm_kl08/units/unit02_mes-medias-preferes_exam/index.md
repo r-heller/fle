@@ -34,7 +34,7 @@ enregistrée**, durée totale ~60 min (incl. enregistrement).
 Stimuli originaux.
 {{< /callout >}}
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le mini-dialogue suivant.
 
@@ -58,7 +58,7 @@ Répondez en phrases complètes :
  (3 P.)
 3. Que veut dire « fiable » dans ce contexte ? (3 P.)
 
-### Tâche 2 — Mündlicher Anteil (12 P.)
+### Tâche 2 — Mündlicher Anteil (12 points)
 
 Vous enregistrez un mini-interview de **90 secondes** avec un·e
 camarade. Posez et répondez à **trois questions** :
@@ -73,7 +73,7 @@ Critères de notation :
 - **Langue** (vocabulaire des médias + structures M) : 4 P.
 - **Aussprache** (intelligibilité) : 4 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez un texte d'environ **70 mots** :
 
@@ -115,5 +115,18 @@ barème de notes (« Notenschlüssel ») typique :
 > les articles, et il y a une **vraie source**.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 2*

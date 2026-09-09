@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le courriel d'Inès (Unité 1, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le courriel d'Inès (Unité 1, texte C). Répondez :
 3. Quelles 3 nouveautés cite-t-elle ?
 4. Quels sentiments éprouve-t-elle ?
 
-### Tâche 2 — Passé composé (10 P.)
+### Tâche 2 — Passé composé (10 points)
 
 Conjuguez avec *avoir* ou *être*.
 
@@ -50,7 +50,7 @@ Conjuguez avec *avoir* ou *être*.
 7. On *(rester)* à la maison.
 8. Mes parents *(rentrer)* tard.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Racontez **votre rentrée** en **80 mots** : où parti(e), avec
 qui, ce que vous avez fait + sentiments pour la 7e. **3 verbes
@@ -78,5 +78,18 @@ profs, bâtiment. 4) Peur + excitée.
 avec être · sentiments rentrée.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 1*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
 4. Que veut « sauver » la narratrice ?
 5. Comment qualifie-t-elle ce projet ?
 
-### Tâche 2 — Genres autobiographiques (8 P.)
+### Tâche 2 — Genres autobiographiques (8 points)
 
 Reliez chaque genre à sa définition :
 
@@ -49,7 +49,7 @@ Reliez chaque genre à sa définition :
 « nous » · au jour le jour · vie publique · expérience
 collective.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 À la manière d'Ernaux, rédigez votre **page d'écriture de
 soi** (~250 mots) : 5 images personnelles + 2 collectives
@@ -80,5 +80,18 @@ témoignage = expérience collective.
 perso · 2 collectives · 1 incipit · 1 chute.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 1*

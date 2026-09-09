@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'article (Unité 3, texte C). Répondez :
 
@@ -40,7 +40,7 @@ Lisez l'article (Unité 3, texte C). Répondez :
 5. Selon le sondage 2024, combien de jeunes considèrent
  l'écologie comme prioritaire ?
 
-### Tâche 2 — Grammatik : *il faut / on devrait* (8 P.)
+### Tâche 2 — Grammatik : *il faut / on devrait* (8 points)
 
 Reformulez avec la formule indiquée.
 
@@ -51,7 +51,7 @@ Reformulez avec la formule indiquée.
 5. Réparons nos vêtements ! → *(on devrait)*
 6. Éteins la lumière ! → *(il faut)*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Prise de position sur un **dilemme écologique** au choix
 (~**120 mots**) :
@@ -85,5 +85,18 @@ de manger moins de viande. 5) On devrait réparer nos vêtements.
 pour · 1 contre · conclusion · *il faut / on devrait* utilisé.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 3*

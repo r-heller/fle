@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'appel du 18 juin (Unité 11, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'appel du 18 juin (Unité 11, texte C). Répondez :
 4. Quel mot revient comme métaphore ?
 5. Où le discours a-t-il été prononcé ?
 
-### Tâche 2 — Procédés rhétoriques (8 P.)
+### Tâche 2 — Procédés rhétoriques (8 points)
 
 Identifiez le procédé :
 
@@ -48,7 +48,7 @@ Identifiez le procédé :
 3. *La flamme de la résistance* → ___
 4. *Non !* (isolé après les 3 questions) → ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Analysez un **discours politique francophone** (~280 mots) :
 contexte + 4 procédés + 1 chute + lien époque.
@@ -77,5 +77,18 @@ anaphore · 3) métaphore · 4) chute / interjection
 contexte · 4 procédés · 1 chute · 1 lien.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 11*

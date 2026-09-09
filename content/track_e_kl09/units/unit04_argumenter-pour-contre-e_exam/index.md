@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le billet d'Anouk (Unité 4, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le billet d'Anouk (Unité 4, texte C). Répondez :
 4. Quelle statistique mentionne le texte ?
 5. Quelle est la position finale d'Anouk ?
 
-### Tâche 2 — Connecteurs logiques (8 P.)
+### Tâche 2 — Connecteurs logiques (8 points)
 
 Complétez avec un connecteur (*d'une part, cependant, de
 plus, en effet, en conclusion, néanmoins, pourtant, par
@@ -49,7 +49,7 @@ ailleurs*) :
 3. ___, des règles claires sont possibles.
 4. ___, je suis pour un usage encadré.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre billet d'opinion** (~180 mots) sur un sujet :
 uniforme à l'école · smartphone à 12 ans · viande à la
@@ -78,5 +78,18 @@ encadré.
 6 connecteurs · 1 conditionnel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 4*

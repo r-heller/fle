@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Lecture + vocabulaire (10 P.)
+### Tâche 1 — Lecture + vocabulaire (10 points)
 
 Lisez le texte sur le projet de l'école de Mbour (Unité 11,
 texte A). Répondez :
@@ -38,7 +38,7 @@ texte A). Répondez :
 3. Comment l'argent est-il transféré ?
 4. Comment fait-on le suivi du projet ?
 
-### Tâche 2 — Grammatik (10 P.)
+### Tâche 2 — Grammatik (10 points)
 
 Reliez les phrases avec : **parce que · pour · afin que ·
 grâce à**.
@@ -49,7 +49,7 @@ grâce à**.
 4. L'école manque de manuels. On a entendu parler du problème
  par la prof.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez en ~80 mots **un projet solidaire** que votre classe
 pourrait organiser. Incluez les **4 étapes** : problème ·
@@ -78,5 +78,18 @@ affiche les résultats **afin que** tous voient.* 4) *L'école
 manque de manuels ; on l'a su **grâce à** la prof.*
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 11*

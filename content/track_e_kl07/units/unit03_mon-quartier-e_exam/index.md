@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la lettre d'Anouk (Unité 3, texte C). Répondez :
 
@@ -38,14 +38,14 @@ Lisez la lettre d'Anouk (Unité 3, texte C). Répondez :
 4. Combien de minutes pour aller au parc ?
 5. Comment va-t-elle à la gare ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez :
 
 - die Bäckerei · die Konditorei · der Buchladen · die Post ·
  das Rathaus · der Bahnhof · die Apotheke · der Supermarkt.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Écrivez une **lettre** à un(e) correspondant(e) sur votre
 quartier en **120 mots** : 5 lieux + 4 prépositions + ce que
@@ -73,5 +73,18 @@ poste · la mairie · la gare · la pharmacie · le supermarché.
 4 prépositions · format lettre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 3*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Conjugaison (10 P.)
+### Tâche 1 — Conjugaison (10 points)
 
 Conjuguez au présent.
 
@@ -41,14 +41,14 @@ Conjuguez au présent.
 7. On *(se promener)* au parc.
 8. Mes amis *(se voir)* le samedi.
 
-### Tâche 2 — L'heure (8 P.)
+### Tâche 2 — L'heure (8 points)
 
 Écrivez l'heure en lettres.
 
 1. 8h00 · 2. 9h30 · 3. 10h15 · 4. 12h00 · 5. 14h45 · 6. 16h00
 · 7. 19h30 · 8. 0h00.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Décrivez **votre journée** en **80 mots** : **5 verbes
 pronominaux** + **5 heures**. Plan : matin – midi – après-midi
@@ -78,5 +78,18 @@ demie (du soir) · 8) minuit.
 pronominaux · 5 heures.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 4*

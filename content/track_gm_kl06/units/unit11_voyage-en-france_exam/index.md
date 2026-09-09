@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Géographie (10 P.)
+### Tâche 1 — Géographie (10 points)
 
 Reliez chaque ville/monument à sa description.
 
@@ -44,7 +44,7 @@ f) Mont-Saint-Michel · g) Pont du Gard · h) tour Eiffel
 7. Aqueduc romain en Occitanie.
 8. Monument-symbole de Paris.
 
-### Tâche 2 — Lecture (10 P.)
+### Tâche 2 — Lecture (10 points)
 
 Lisez la carte postale de Léa (Unité 11, texte B). Répondez :
 
@@ -54,7 +54,7 @@ Lisez la carte postale de Léa (Unité 11, texte B). Répondez :
 4. Que fera-t-elle demain ?
 5. Comment finit-elle la carte ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez une **carte postale** d'une ville française imaginaire,
 ~50 mots : lieu+date · salutation · météo+activité+nourriture ·
@@ -70,5 +70,18 @@ au revoir+bisous.
 4) Monter à Notre-Dame de la Garde. 5) Bisous, Léa.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 11*

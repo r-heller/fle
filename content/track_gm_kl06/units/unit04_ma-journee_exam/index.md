@@ -28,13 +28,13 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Grammatik (10 P.)
+### Tâche 1 — Grammatik (10 points)
 
 Conjuguez les 5 verbes au présent (5 personnes au choix) :
 
 1. être · 2. avoir · 3. aller · 4. manger · 5. faire.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le mini-récit de Léa (Unité 4, texte B). Choisissez a/b/c.
 
@@ -48,7 +48,7 @@ Lisez le mini-récit de Léa (Unité 4, texte B). Choisissez a/b/c.
 5. Que fait-elle le soir ? a) ses devoirs et joue · b) lit · c)
  regarde la télé.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez votre journée d'hier en **~50 mots**. Au moins **3
 verbes au présent + 2 marqueurs de temps** (le matin / à midi /
@@ -68,5 +68,18 @@ le soir / à 7h …).
 **Tâche 2.** 1) b · 2) b · 3) c · 4) b · 5) a.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 4*

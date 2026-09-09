@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 Écoutez la fiche de Souad Massi (Unité 6, texte C). Répondez :
 
@@ -38,7 +38,7 @@ curriculum:
 4. Quel est son style musical ?
 5. Quelle est sa chanson la plus célèbre ?
 
-### Tâche 2 — Vocabulaire musical (8 P.)
+### Tâche 2 — Vocabulaire musical (8 points)
 
 Reliez chaque mot à sa définition :
 
@@ -49,7 +49,7 @@ Reliez chaque mot à sa définition :
 répétée · collaboration · série de concerts · disque complet
 · timbre vocal · suite de notes.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez le **portrait** d'un·e artiste maghrébin·e
 francophone (~120 mots) : pays + style + 1 album + 5 mots de
@@ -78,5 +78,18 @@ vocal · mélodie = suite de notes.
 vocabulaire musical · pays + style + opinion.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 6*

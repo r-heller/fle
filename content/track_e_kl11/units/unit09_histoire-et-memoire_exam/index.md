@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la note historique (Unité 9, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la note historique (Unité 9, texte C). Répondez :
 4. Quel président reconnaît la responsabilité, quand ?
 5. Combien de noms au Mémorial de la Shoah ?
 
-### Tâche 2 — Dates pivots (8 P.)
+### Tâche 2 — Dates pivots (8 points)
 
 Reliez chaque date à son événement :
 
@@ -49,7 +49,7 @@ Reliez chaque date à son événement :
 Accords d'Évian · discours Chirac · reconnaissance torture
 Algérie.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **note historique** (~300 mots) sur :
 
@@ -83,5 +83,18 @@ Algérie.
 dates · 1 reconnaissance · 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 9*

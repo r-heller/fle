@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez les trois extraits du journal de Léa (Unité 8, texte A).
 Répondez :
@@ -37,7 +37,7 @@ Répondez :
 2. Quel mot existe à Bordeaux mais pas à Paris ?
 3. Pourquoi la dame âgée connaît-elle l'allemand ?
 
-### Tâche 2 — Grammatik passé composé / imparfait (10 P.)
+### Tâche 2 — Grammatik passé composé / imparfait (10 points)
 
 Mettez le verbe au temps qui convient.
 
@@ -47,7 +47,7 @@ Mettez le verbe au temps qui convient.
 4. Pendant cinq jours, je *(visiter)* _____________ Paris.
 5. Mardi matin, *(commander, je)* _____________ un café crème.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Écrivez **3 mini-extraits de journal** (~70 mots total) sur
 3 jours dans une ville française de votre choix. Utilisez
@@ -76,5 +76,18 @@ composé, ponctuel). 4) j'ai visité (passé composé, durée
 précise). 5) j'ai commandé (passé composé, action).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 8*

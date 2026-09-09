@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
 4. Que demande Meursault à son patron ?
 5. Que dit Meursault à son patron ?
 
-### Tâche 2 — Concepts camusiens (8 P.)
+### Tâche 2 — Concepts camusiens (8 points)
 
 Reliez chaque concept à son repérage dans l'incipit :
 
@@ -48,7 +48,7 @@ Reliez chaque concept à son repérage dans l'incipit :
 (Repérages : *Cela ne veut rien dire* · phrases courtes ·
 *sentiments distingués* · *Ce n'est pas de ma faute*.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre étude d'incipit** (~350 mots) : 4 § + 5
 citations + 3 concepts camusiens + lien à un autre incipit.
@@ -76,5 +76,18 @@ congé. 5) *Ce n'est pas de ma faute.*
 5 citations · 3 concepts.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 1*

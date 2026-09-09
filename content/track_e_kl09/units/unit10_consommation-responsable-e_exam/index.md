@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la chronique d'Anouk (Unité 10, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la chronique d'Anouk (Unité 10, texte C). Répondez :
 4. Quelles plateformes évite-t-elle ?
 5. Que conseille-t-elle aux débutant·e·s ?
 
-### Tâche 2 — Verbes éthiques (8 P.)
+### Tâche 2 — Verbes éthiques (8 points)
 
 Conjuguez :
 
@@ -47,7 +47,7 @@ Conjuguez :
 3. Tu ___ (vérifier) toujours l'étiquette.
 4. Vous ___ (soutenir) le commerce équitable.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre chronique** (~150 mots) sur un produit
 responsable : 1 label + 3 verbes éthiques + 1 conseil + 1
@@ -75,5 +75,18 @@ Shein, Temu (fast-fashion). 5) Commencer petit (3 produits)
 · 3 verbes éthiques · 1 conseil.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 10*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le dialogue Karim/Anouk (Unité 3, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le dialogue Karim/Anouk (Unité 3, texte C). Répondez :
 3. Qui est HugoDécrypte ?
 4. Que va faire Anouk à la fin du dialogue ?
 
-### Tâche 2 — Verbes d'opinion (10 P.)
+### Tâche 2 — Verbes d'opinion (10 points)
 
 Complétez avec le verbe d'opinion qui convient (*trouver,
 penser, préférer, adorer, recommander*) :
@@ -48,7 +48,7 @@ penser, préférer, adorer, recommander*) :
 4. Je ___ cette chaîne à tous mes amis.
 5. Je ___ que HugoDécrypte explique bien l'actualité.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **dialogue** (8 répliques, ~120 mots) entre vous et
 un·e ami·e sur vos médias préférés : 1 série + 1 podcast + 1
@@ -76,5 +76,18 @@ sa chaîne YouTube.
 verbes d'opinion · 3 médias différents.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 3*

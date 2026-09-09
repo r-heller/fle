@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'incipit de *Chanson douce* (Unité 7, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Comment Slimani décrit-elle son combat ?
 5. Que faisait la nounou ?
 
-### Tâche 2 — Outils d'analyse romanesque (8 P.)
+### Tâche 2 — Outils d'analyse romanesque (8 points)
 
 Pour l'incipit, identifiez :
 
@@ -48,7 +48,7 @@ Pour l'incipit, identifiez :
 3. Le **registre** dominant : ___
 4. Un **motif** (élément récurrent) : ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **analyse** (~300 mots) à partir d'un autre
 extrait (Slimani ou Modiano fourni) : 5 outils + 2 citations
@@ -77,5 +77,18 @@ bête sauvage).
 outils · 2 citations · 1 lien titre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 7*

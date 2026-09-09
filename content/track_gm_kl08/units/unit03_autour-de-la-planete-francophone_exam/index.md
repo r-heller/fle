@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez les portraits courts de Unité 3 (Sénégal, Suisse,
 Belgique, Maroc, Côte d'Ivoire). Répondez en phrases complètes.
@@ -39,7 +39,7 @@ Belgique, Maroc, Côte d'Ivoire). Répondez en phrases complètes.
 4. Pourquoi beaucoup de Sénégalais·es sont-ils bilingues ?
 5. Que veut dire « nouchi » en Côte d'Ivoire ?
 
-### Tâche 2 — Expression orale (« Sprechen ») monologue (15 P.)
+### Tâche 2 — Expression orale (« Sprechen ») monologue (15 points)
 
 Présentez en ~90 secondes un pays francophone (en direct ou
 enregistré). Inclure : localisation · statut du français ·
@@ -47,7 +47,7 @@ mot ou langue locale · raison de visiter.
 
 Critères : Contenu 6 P. · Langue 5 P. · Aussprache 4 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
 
 Écrivez 3 phrases sur votre rapport au français : pourquoi vous
 l'apprenez · ce qui vous plaît · une difficulté.
@@ -69,5 +69,18 @@ l'apprenez · ce qui vous plaît · une difficulté.
 argot du français de Côte d'Ivoire (avec mots locaux).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 3*

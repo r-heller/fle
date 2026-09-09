@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé finale — Niveau M, classe 6
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 points)
 
 Lisez le texte allemand sur la 6c.
 
@@ -44,7 +44,7 @@ activités · activité préférée.
 
 Critères : Contenu 6 P · Langue 5 P · Sens fidèle 4 P.
 
-### Tâche 2 — Expression orale (« Sprechen ») mündlich (15 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (15 points)
 
 Présentation orale de votre classe en 1-2 minutes. Inclure :
 
@@ -66,5 +66,18 @@ Critères : Contenu 6 P · Langue 5 P · Aussprache 4 P.
 > est le foot.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

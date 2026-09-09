@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la dernière page de *L'Étranger* (Unité 6, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Que souhaite-t-il ce jour-là ? Pourquoi ?
 5. Comment Camus parle-t-il du monde ?
 
-### Tâche 2 — Structure narrative (8 P.)
+### Tâche 2 — Structure narrative (8 points)
 
 Reliez chapitre ↔ événement-clé :
 
@@ -48,7 +48,7 @@ Reliez chapitre ↔ événement-clé :
 (Événements : enterrement · meurtre · procès · révolte
 finale.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre synthèse de *L'Étranger*** (~400 mots) :
 4 § (résumé, structure, thèmes, interprétation finale) +
@@ -79,5 +79,18 @@ procès · II-6 = révolte finale.
 5 citations · 3 axes · 1 lien.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 6*

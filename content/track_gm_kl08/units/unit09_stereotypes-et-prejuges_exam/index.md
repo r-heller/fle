@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Lecture + définitions (10 P.)
+### Tâche 1 — Lecture + définitions (10 points)
 
 Pour chaque énoncé, indiquez **S** (stéréotype), **P** (préjugé)
 ou **D** (discrimination), et **justifiez en 1 phrase**.
@@ -40,7 +40,7 @@ ou **D** (discrimination), et **justifiez en 1 phrase**.
 4. *« Les Belges aiment les frites. »*
 5. *« Les Asiatiques sont meilleurs en maths. »*
 
-### Tâche 2 — Expression orale (« Sprechen ») mündlich (12 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (12 points)
 
 Mini-dialogue de 3 minutes en binôme. A énonce un stéréotype, B
 relativise avec au moins 3 expressions du cours. Échangez les
@@ -48,7 +48,7 @@ rôles.
 
 Critères : Erfüllung 4 P. · Langue 4 P. · Aussprache 4 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (8 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (8 points)
 
 Écrivez **5 phrases** sur :
 
@@ -73,5 +73,18 @@ connaissance). 3 = D (acte concret). 4 = S. 5 = S, mais à
 mi-chemin du préjugé selon le contexte.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 9*

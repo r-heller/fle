@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le courriel d'Inès (Unité 2, texte C). Répondez :
 
@@ -38,14 +38,14 @@ Lisez le courriel d'Inès (Unité 2, texte C). Répondez :
 4. Que veut dire *plate* dans le texte ?
 5. Qui est Antoine ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Donnez l'équivalent français de France :
 
 - magasiner · chum · jaser · plate · écœurant · dépanneur ·
  blonde · char.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **courriel-réponse** à Inès en **150 mots** :
 structure complète (objet, salutation, 3 nouvelles, 1 question,
@@ -73,5 +73,18 @@ ennuyeux · génial · épicerie de quartier · copine · voiture.
 complète · 2 québécismes · format courriel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 2*

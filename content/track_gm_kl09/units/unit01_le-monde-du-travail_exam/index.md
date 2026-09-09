@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
 
@@ -38,14 +38,14 @@ Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
 4. Que lui dit Hugo sur le pain et la vie ?
 5. Quelles 3 leçons retient-elle ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez les métiers :
 
 - Bäcker · Krankenpflegerin · Lehrer · Ingenieurin ·
  Journalist · Friseuse · Informatiker · Architektin.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre rapport de Praktikum** en **120 mots** :
 date, lieu, tuteur, **3 tâches** au passé composé, **2 choses
@@ -73,5 +73,18 @@ journaliste · coiffeuse · informaticien · architecte.
 passé composé · 2 leçons · format rapport.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 1*

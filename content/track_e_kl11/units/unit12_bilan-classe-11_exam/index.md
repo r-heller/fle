@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la note de bilan d'Anouk (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la note de bilan d'Anouk (Unité 12, texte C). Répondez :
 4. Quels 3 priorités a-t-elle pour la 12e ?
 5. Quel niveau CECRL vise-t-elle ?
 
-### Tâche 2 — Références (8 P.)
+### Tâche 2 — Références (8 points)
 
 Reliez chaque autrice/auteur à son œuvre + année :
 
@@ -50,7 +50,7 @@ Reliez chaque autrice/auteur à son œuvre + année :
 · *Chants d'ombre* (1945) · *L'Étranger* (1942) · *Rue des
 Boutiques obscures* (1978) · *La Tresse* (2017).)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre note de bilan 11e Bf** (~280 mots) :
 4 axes + 3 priorités 12e + 4 références + 1 objectif chiffré.
@@ -77,5 +77,18 @@ Rédigez **votre note de bilan 11e Bf** (~280 mots) :
 4 axes · 3 priorités · 4 références · 1 objectif chiffré.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 12*

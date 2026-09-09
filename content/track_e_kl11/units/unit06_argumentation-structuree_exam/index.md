@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la dissertation d'Anouk (Unité 6, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la dissertation d'Anouk (Unité 6, texte C). Répondez :
 4. Quelles 2 instances distinguent opinion / haine ?
 5. Que cite Anouk de Beaumarchais ?
 
-### Tâche 2 — Connecteurs logiques (8 P.)
+### Tâche 2 — Connecteurs logiques (8 points)
 
 Insérez le bon connecteur (*certes, toutefois, en revanche,
 finalement, cela étant, en outre, de surcroît, au
@@ -49,7 +49,7 @@ contraire*) :
 3. ___, l'incitation à la haine est punie par la loi.
 4. ___, la liberté doit être large mais responsable.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez votre **dissertation TAS** (~400 mots) sur un sujet
 au choix : IA / climat / réseaux sociaux. 4 parties + 6
@@ -78,5 +78,18 @@ liberté de blâmer, il n'est point d'éloge flatteur. »*
 parties · 6 connecteurs · 2 références · 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 6*

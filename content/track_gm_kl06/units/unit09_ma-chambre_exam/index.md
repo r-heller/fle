@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -37,7 +37,7 @@ Traduisez :
 - 6 meubles : *Bett · Schreibtisch · Stuhl · Schrank · Tisch ·
  Regal*.
 
-### Tâche 2 — Prépositions (10 P.)
+### Tâche 2 — Prépositions (10 points)
 
 Complétez avec : *sur · sous · dans · à côté de · entre · devant*.
 
@@ -47,7 +47,7 @@ Complétez avec : *sur · sous · dans · à côté de · entre · devant*.
 4. Le bureau est ___ ___ la fenêtre.
 5. Le tapis est ___ le lit et la chaise.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Décrivez **votre chambre** en ~50 mots avec au moins 3
 prépositions et 5 meubles.
@@ -63,5 +63,18 @@ chaise · l'armoire · la table · l'étagère.
 **Tâche 2.** 1) sur. 2) sous. 3) dans. 4) à côté de. 5) entre.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 9*

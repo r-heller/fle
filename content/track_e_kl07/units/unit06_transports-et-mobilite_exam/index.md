@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
 4. Quelle ligne de métro prennent-elles ?
 5. Jusqu'à quelle station ?
 
-### Tâche 2 — *en* / *à* (8 P.)
+### Tâche 2 — *en* / *à* (8 points)
 
 1. Je vais à l'école ___ vélo.
 2. Mes parents partent ___ voiture.
@@ -49,7 +49,7 @@ Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
 7. Karim rentre ___ métro.
 8. Tristan rentre ___ Belgique ___ TGV.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Décrivez **un trajet** entre 2 villes en **80 mots** : départ,
 arrivée, horaires, transport, durée. **3 *en/à*** + **2 PC**.
@@ -75,5 +75,18 @@ arrivée, horaires, transport, durée. **3 *en/à*** + **2 PC**.
 demandés · 3 *en/à* · 2 PC.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 6*

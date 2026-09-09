@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
 
 Lisez le blog de Mehdi (Unité 5, texte C). Répondez :
 
@@ -39,7 +39,7 @@ Lisez le blog de Mehdi (Unité 5, texte C). Répondez :
 5. Que fait-il le week-end ?
 6. Quelle question pose-t-il à Léa ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Reliez les termes tunisiens et leur équivalent standard.
 
@@ -54,7 +54,7 @@ Reliez les termes tunisiens et leur équivalent standard.
 Plus, traduisez en français standard : *l'indépendance · la
 révolution · une langue officielle*.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
 Rédigez une **réponse à Mehdi** en **120 mots** : votre samedi
 à Karlsruhe + comparaison avec Sfax. **2 mots tunisiens** entre
@@ -83,5 +83,18 @@ die Revolution · eine offizielle Langue.
 tunisiens · 1 fait sur la Tunisie · format réponse blog.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 5*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8 (médiation linguistique (« Sprachmittlung »))
 
-### Tâche unique — médiation linguistique (30 P.)
+### Tâche unique — médiation linguistique (30 points)
 
 Lisez l'article allemand suivant et écrivez en **français**,
 en **cinq à sept phrases courtes**, le résumé des informations
@@ -81,5 +81,18 @@ principales pour Inès, votre correspondante à Montréal.
 > retrouvée des enfants.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 5*

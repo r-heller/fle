@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le portrait Anouk/Karim (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le portrait Anouk/Karim (Unité 12, texte C). Répondez :
 4. Quel petit problème a-t-il eu ?
 5. Que fera Anouk en mars 2027 ?
 
-### Tâche 2 — 3 temps en alternance (8 P.)
+### Tâche 2 — 3 temps en alternance (8 points)
 
 Conjuguez au temps demandé :
 
@@ -49,7 +49,7 @@ Conjuguez au temps demandé :
 5. L'an prochain, je ___ (partir, futur) à Lille.
 6. Je ___ (manger, futur) des moules-frites.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez le **portrait d'une rencontre** de votre 8e
 (~150 mots), en 3 paragraphes : §1 PC + imparfait
@@ -79,5 +79,18 @@ avons fait · 5) partirai · 6) mangerai.
 mêlés · 6 connecteurs · 1 phrase-bilan.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 12*

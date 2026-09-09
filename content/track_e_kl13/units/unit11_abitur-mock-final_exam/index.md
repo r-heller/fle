@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock final)
 
-### Tâche 1 — Verstehen (10 P.) — 60 min
+### Tâche 1 — Verstehen (10 points) — 60 min
 
 Lisez les 3 textes (Unité 11, texte C). Répondez :
 
@@ -38,13 +38,13 @@ Lisez les 3 textes (Unité 11, texte C). Répondez :
 4. Quel rang pour le français en Allemagne ?
 5. Quel anniversaire l'OFAJ ?
 
-### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 P.) — 90 min
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
 
 Comparez **la voix de Senghor (1945)** et celle d'**Aya
 Nakamura (2030)** (~400 mots). TAS + 3 citations + 1
 interprétation de l'évolution.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
 
 Médiez le texte 3 en français (~280 mots) : 5 verbes-
 charnières + lien interculturel.
@@ -75,5 +75,18 @@ de la coopération franco-allemande, malgré la concurrence
 mondiale de l'anglais.*
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 11*

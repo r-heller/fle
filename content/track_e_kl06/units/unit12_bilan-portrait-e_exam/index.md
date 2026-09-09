@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le portrait d'Anouk (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le portrait d'Anouk (Unité 12, texte C). Répondez :
 4. Que fait-elle le mardi ?
 5. Quel est son rêve ?
 
-### Tâche 2 — Auto-évaluation (5 P.)
+### Tâche 2 — Auto-évaluation (5 points)
 
 Notez-vous de 1 à 5 sur 5 domaines :
 
@@ -48,7 +48,7 @@ Notez-vous de 1 à 5 sur 5 domaines :
 - Compréhension d'un texte simple ___
 - Présentation orale ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
 
 Rédigez **votre portrait** en **120 mots** : 9 éléments des 11
 Unités. Plan : identité + famille + école + journée + goûts +
@@ -75,5 +75,18 @@ voir la cathédrale.
 demandés · question finale.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 12*

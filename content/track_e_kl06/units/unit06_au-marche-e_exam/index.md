@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Hörverstehen (10 P.)
+### Tâche 1 — Hörverstehen (10 points)
 
 Écoutez le dialogue au marché (Unité 6, texte C). Répondez :
 
@@ -37,14 +37,14 @@ curriculum:
 3. Quel est le total ?
 4. Combien la cliente paie-t-elle ? Quelle monnaie reçoit-elle ?
 
-### Tâche 2 — Vocabulaire (8 P.)
+### Tâche 2 — Vocabulaire (8 points)
 
 Traduisez :
 
 - der Apfel · die Birne · die Erdbeere · die Banane · die Tomate
  · die Karotte · die Zucchini · die Kartoffel.
 
-### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 points)
 
 Écrivez un **dialogue au marché** en **8 répliques** : achat de
 **3 fruits/légumes** différents avec quantités + paiement +
@@ -71,5 +71,18 @@ tomate · la carotte · la courgette · la pomme de terre.
 articles · quantités + prix · politesse.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 6*

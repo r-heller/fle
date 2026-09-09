@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez le discours de Léa (Unité 11, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez le discours de Léa (Unité 11, texte C). Répondez :
 3. Citez les **3 arguments**.
 4. Quelle est la chute ?
 
-### Tâche 2 — Figures de style (8 P.)
+### Tâche 2 — Figures de style (8 points)
 
 Anaphore (A), question rhétorique (Q) ou métaphore (M) ?
 
@@ -51,7 +51,7 @@ Anaphore (A), question rhétorique (Q) ou métaphore (M) ?
 6. *« Est-il acceptable que des enfants n'aient pas accès à
  l'école ? »*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (14 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (14 points)
 
 Rédigez **votre discours** (~250 mots) sur un sujet au choix.
 Plan complet : **accroche** + **thèse** + **3 arguments** +
@@ -81,5 +81,18 @@ Une langue de plus, c'est un monde de plus. Merci. »
 complet · 2 figures · style oratoire.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 11*

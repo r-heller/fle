@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait *La Tresse* (Unité 9, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'extrait *La Tresse* (Unité 9, texte C). Répondez :
 4. Comment Smita a-t-elle économisé ?
 5. Quelle décision finale prend-elle ?
 
-### Tâche 2 — Notions narratives (8 P.)
+### Tâche 2 — Notions narratives (8 points)
 
 Identifiez (extrait Unité 9, texte C) :
 
@@ -48,7 +48,7 @@ Identifiez (extrait Unité 9, texte C) :
 3. Citez 2 **personnages** principaux.
 4. Quel est le **thème** principal ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **fiche de lecture** (~150 mots) sur un roman
 jeunesse FR au choix : auteur·e + résumé (3 phrases) +
@@ -76,5 +76,18 @@ roupie. 5) Partir à Bénarès.
 éléments demandés · 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 9*

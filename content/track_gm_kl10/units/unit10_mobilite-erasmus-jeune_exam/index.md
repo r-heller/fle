@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Hörverstehen (12 P.)
+### Tâche 1 — Hörverstehen (12 points)
 
 Écoutez le témoignage d'Inès (Unité 10, texte C). Répondez :
 
@@ -39,7 +39,7 @@ curriculum:
 5. Le plus beau ? Le plus dur ?
 6. Quelle est sa formule finale ?
 
-### Tâche 2 — Programmes (6 P.)
+### Tâche 2 — Programmes (6 points)
 
 Quel programme conviendrait ? (Erasmus+ / OFAJ / Service civique)
 
@@ -47,7 +47,7 @@ Quel programme conviendrait ? (Erasmus+ / OFAJ / Service civique)
 2. Lukas, 14 ans, veut un échange de 3 semaines en France.
 3. Carla, 21 ans, veut du bénévolat 6 mois en France.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez un **dossier de candidature simplifié** (~180 mots)
 pour un programme au choix : intro (qui), 3 motivations, projet
@@ -75,5 +75,18 @@ barrière langue les 1ʳᵉˢ semaines. 6) « Foncez ! »
 projet précis · DELF cité · formule polie.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 10*

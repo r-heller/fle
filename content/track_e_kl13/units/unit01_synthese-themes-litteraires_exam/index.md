@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la synthèse comparative (Unité 1, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la synthèse comparative (Unité 1, texte C). Répondez :
 4. Quelle citation Senghor clôt la synthèse ?
 5. Quelle est la thèse globale d'Anouk ?
 
-### Tâche 2 — Cartographie thèmes-auteur·e·s (8 P.)
+### Tâche 2 — Cartographie thèmes-auteur·e·s (8 points)
 
 Reliez chaque thème à son·sa auteur·rice principal·e :
 
@@ -48,7 +48,7 @@ Reliez chaque thème à son·sa auteur·rice principal·e :
 (Auteur·e·s : Ernaux · Ben Jelloun-Condé · Camus · Modiano ·
 Despentes · É. Louis · Senghor · Slimani.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre synthèse comparative** (~450 mots) : 6
 thèmes + 8 auteur·e·s + 5 citations + 1 thèse personnelle +
@@ -76,5 +76,18 @@ précision pour dire l'expérience humaine.
 thèmes · 8 auteur·e·s · 5 citations · 1 thèse · 1 chute.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 1*

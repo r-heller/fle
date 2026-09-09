@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le dialogue Anouk/Mehdi (Unité 10, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le dialogue Anouk/Mehdi (Unité 10, texte C). Répondez :
 4. Que limite la loi climat 2021 ?
 5. Quel objectif commun en 2050 ?
 
-### Tâche 2 — Vocabulaire vert (8 P.)
+### Tâche 2 — Vocabulaire vert (8 points)
 
 Reliez chaque terme à sa définition :
 
@@ -50,7 +50,7 @@ Reliez chaque terme à sa définition :
 émis par personne · CO2 d'une organisation · 150 citoyens ·
 plan climat UE · charbon brun · solaire/éolien/hydro.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre dialogue FR/DE sur la transition** (~250
 mots, 12 répliques) : 5 chiffres + 4 termes verts + 1
@@ -77,5 +77,18 @@ courts. 5) Neutralité carbone 2050.
 conditionnel.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 10*

@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Vocabulaire (10 P.)
+### Tâche 1 — Vocabulaire (10 points)
 
 Traduisez :
 
@@ -36,7 +36,7 @@ Traduisez :
  der Balkon · der Garten · das Bett · der Schreibtisch ·
  das Sofa · der Schrank.
 
-### Tâche 2 — Prépositions (8 P.)
+### Tâche 2 — Prépositions (8 points)
 
 Complétez avec : *sur, sous, dans, devant, derrière, à côté de*.
 
@@ -49,7 +49,7 @@ Complétez avec : *sur, sous, dans, devant, derrière, à côté de*.
 7. Les vieux jouets sont ___ le lit.
 8. Le tapis est ___ le canapé et la table.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Décrivez **votre chambre** en **70 mots** : taille + **4
 meubles** + **3 prépositions** différentes + ce que vous y
@@ -78,5 +78,18 @@ côté de.
 3 prépositions · plus 1 phrase d'opinion.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 9*

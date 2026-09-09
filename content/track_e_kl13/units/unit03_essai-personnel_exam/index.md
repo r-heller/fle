@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'essai *« Pourquoi le français ? »* (Unité 3, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Que dit Ben Jelloun cité par Anouk ?
 5. Comment Anouk décrit-elle le français en quatre mots ?
 
-### Tâche 2 — Genres argumentatifs (8 P.)
+### Tâche 2 — Genres argumentatifs (8 points)
 
 Reliez chaque genre à sa caractéristique :
 
@@ -50,7 +50,7 @@ Reliez chaque genre à sa caractéristique :
 neutre · analyse texte donné · attaque virulente · presse ·
 universitaire long · master · presse court.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre essai personnel** (~500 mots) sur un sujet :
 *Pourquoi le français ? · Pourquoi lire ? · Pourquoi
@@ -78,5 +78,18 @@ Caresse, mosaïque, mémoire, exigence.
 5 citations · 1 chute · « je ».
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 3*

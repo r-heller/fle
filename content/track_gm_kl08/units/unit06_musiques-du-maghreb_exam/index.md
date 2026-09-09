@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 8 (avec écoute)
 
-### Tâche 1 — Hörverstehen (15 P.)
+### Tâche 1 — Hörverstehen (15 points)
 
 Vous écoutez deux fois le refrain suivant.
 
@@ -43,7 +43,7 @@ Répondez :
 2. Que signifie « aucun n'est entier » ? (5 P.)
 3. À votre avis, qui chante ? Justifiez. (7 P.)
 
-### Tâche 2 — Text-/Medienkompetenz (10 P.)
+### Tâche 2 — Text-/Medienkompetenz (10 points)
 
 Trois indices, trois genres. Identifiez :
 
@@ -51,7 +51,7 @@ a) Mélange arabe-français + voix puissantes + Oran années 1980 → ___
 b) Oud + derbouka + mariages, héritage andalou → ___
 c) Banlieue + double identité + années 2000 → ___
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
 
 Décrivez en **3 phrases** votre chanson préférée :
 genre · artiste · pourquoi vous l'aimez.
@@ -79,5 +79,18 @@ chante deux pays*.
 conjugué, vocabulaire des médias / musique adéquat.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 6*

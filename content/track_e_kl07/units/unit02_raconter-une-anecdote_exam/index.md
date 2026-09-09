@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Lisez l'anecdote de Tristan (Unité 2, texte C). Répondez :
 
@@ -37,7 +37,7 @@ Lisez l'anecdote de Tristan (Unité 2, texte C). Répondez :
 3. Que s'est-il passé soudain ?
 4. Comment finit l'histoire ?
 
-### Tâche 2 — PC ou imparfait ? (10 P.)
+### Tâche 2 — PC ou imparfait ? (10 points)
 
 Conjuguez selon le sens.
 
@@ -49,7 +49,7 @@ Conjuguez selon le sens.
 6. *Hier, on (aller) ___ au cinéma.*
 7. *Pendant que je (lire) ___, ma sœur (entrer) ___.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Racontez **une anecdote drôle** en **150 mots** : décor
 (imparfait) + action (PC) + conclusion. **3 marqueurs** +
@@ -79,5 +79,18 @@ entrée.
 · 3 marqueurs · 5 PC + 5 imparfaits.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 2*

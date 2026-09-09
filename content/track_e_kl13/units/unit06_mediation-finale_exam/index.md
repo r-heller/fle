@@ -28,7 +28,7 @@ curriculum:
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Verstehen (8 P.)
+### Tâche 1 — Verstehen (8 points)
 
 Lisez la médiation DE (Unité 6, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la médiation DE (Unité 6, texte C). Répondez :
 4. Quelle est la phrase finale de Marie-Christine
  Saragosse ?
 
-### Tâche 2 — Faux amis franco-allemands (8 P.)
+### Tâche 2 — Faux amis franco-allemands (8 points)
 
 Donnez la **bonne traduction** :
 
@@ -48,7 +48,7 @@ Donnez la **bonne traduction** :
 4. *éventuellement* (en français) → ___ (allemand,
  attention faux ami !)
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») finale (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») finale (14 points)
 
 Médiez ce texte français en allemand (~350 mots) :
 
@@ -91,5 +91,18 @@ Die Frankophonie ist somit ein **geteiltes Erbe**, mehr als
 eine **Hinterlassenschaft**.* (~280 mots).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 6*

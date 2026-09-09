@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez la brève (Unité 2, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez la brève (Unité 2, texte C). Répondez :
 4. Comment seront-ils envoyés ?
 5. Qui prononce la citation finale ?
 
-### Tâche 2 — Lignes éditoriales / genres (8 P.)
+### Tâche 2 — Lignes éditoriales / genres (8 points)
 
 Reliez chaque journal à sa ligne éditoriale :
 
@@ -48,7 +48,7 @@ Reliez chaque journal à sa ligne éditoriale :
 (Lignes : centre-gauche · gauche · droite libérale ·
 catholique · sport · régional.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez une **brève d'actualité** (~120 mots) sur un
 événement de votre école : titre + chapeau + 5 W + 1
@@ -77,5 +77,18 @@ Figaro = droite libérale · La Croix = catholique · L'Équipe
 1 citation.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 2*

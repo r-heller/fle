@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
 
 Lisez le texte allemand (Unité 11, texte C : Karlsruher Schloss).
 **Médiez** son contenu en **français** pour un(e) ami(e)
@@ -36,7 +36,7 @@ québécois(e), en **5 phrases** (~70 mots). Ne traduisez pas mot
 à mot — transmettez l'essentiel : qui/quoi, horaires, prix,
 particularités.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
 
 Vrai ou faux ? (Sur le texte source allemand.)
 
@@ -47,7 +47,7 @@ Vrai ou faux ? (Sur le texte source allemand.)
 | 3 | Les élèves payent 4 €. | ☐ | ☐ |
 | 4 | Le parc est gratuit. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (7 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (7 points)
 
 Écrivez un **petit courriel** (~50 mots) à un(e) ami(e)
 québécois(e) qui veut visiter Karlsruhe : invitez-le/la et
@@ -77,5 +77,18 @@ phrases · 5 infos · français correct.
 50 mots · 3 infos pratiques · ton amical (*tu*).
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 11*

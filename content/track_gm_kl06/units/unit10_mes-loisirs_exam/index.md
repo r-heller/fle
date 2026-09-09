@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'affiche des activités du collège (« Realschule ») (Unité 10, texte C).
 Répondez :
@@ -39,7 +39,7 @@ Répondez :
 4. Quel jour est-il réservé aux échecs ?
 5. Quelle activité est mentionnée pour le jeudi ?
 
-### Tâche 2 — Grammatik (10 P.)
+### Tâche 2 — Grammatik (10 points)
 
 Complétez avec : *au · à la · aux · du · de la · des*.
 
@@ -50,7 +50,7 @@ Complétez avec : *au · à la · aux · du · de la · des*.
 5. Vous jouez ___ cartes.
 6. Ils font ___ équitation.
 
-### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 points)
 
 Interview en binôme : 3 questions sur les loisirs + restitution
 orale (1 minute).
@@ -65,5 +65,18 @@ orale (1 minute).
 **Tâche 2.** 1) au · 2) du · 3) de la · 4) au · 5) aux · 6) de l'.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 10*

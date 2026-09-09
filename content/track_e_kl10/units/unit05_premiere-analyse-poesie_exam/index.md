@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez l'extrait *Femme noire* (Unité 5, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez l'extrait *Femme noire* (Unité 5, texte C). Répondez :
 4. Quel sentiment domine ?
 5. À quel mouvement littéraire appartient l'auteur ?
 
-### Tâche 2 — Outils d'analyse (8 P.)
+### Tâche 2 — Outils d'analyse (8 points)
 
 Reliez chaque outil à sa définition :
 
@@ -49,7 +49,7 @@ Reliez chaque outil à sa définition :
 fin · image · répétition au début · répétition d'un son ·
 attribuer humain à objet · « comme ».)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 À partir de *Déjeuner du matin* (Prévert, fourni), rédigez
 une **mini-analyse** (~150 mots) : forme + 2 outils +
@@ -76,5 +76,18 @@ Négritude.
 outils · interprétation · conclusion.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 5*

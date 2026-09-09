@@ -28,7 +28,7 @@ curriculum:
 
 ## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
 
 Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 
@@ -38,7 +38,7 @@ Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 4. Cite **2 projets** de Léa pour la 8e.
 5. Quel est son rêve plus tard ?
 
-### Tâche 2 — Grammatik : 3 temps (8 P.)
+### Tâche 2 — Grammatik : 3 temps (8 points)
 
 Identifiez le temps (présent / passé composé / futur proche)
 et conjuguez si nécessaire.
@@ -55,7 +55,7 @@ Puis, conjuguez :
 7. *(aller voir, futur proche)* Nous ___ Inès.
 8. *(visiter, futur proche)* Léa ___ Montréal.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
 
 Rédigez **votre bilan d'année de 7e** en **100 mots** :
 
@@ -88,5 +88,18 @@ correspondre avec Inès. 5) Visiter Montréal.
 3 connecteurs · cohérence du bilan.
 
 ---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
 
 *© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 12*
